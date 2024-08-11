@@ -6,7 +6,7 @@ To get the most out of this lab you need to be prepared. The basic knowledge nee
 
 ## Introduction
 
-**This is a take-home lab, as you will record all you will record your energy intake (all you eat and drink), as well as your energy expenditure (all of your activity), over a 24 hour period to etablish a caloric budget. Read the compete instructions now and don't wait untl the last day to record the data!** 
+**This is a take-home lab, as you will each record your energy intake (all you eat and drink), as well as your energy expenditure (all of your activity), over a 24 hour period to etablish a caloric budget. Read the compete instructions now and don't wait until the last day to record the data!** 
 
 **Metabolism** refers to the sum total of the chemical changes which occur in the body.  Energy can be measured in many ways.  The usual physiological unit of energy metabolism is the calorie.  A **calorie** is the amount of energy required to heat 1 mL of water by one degree Celsius.  This is a very small amount of energy, so physiologists measure energy in Calories (“big-C” calories).  A Calorie is one kilocalorie (1,000 “little-c” calories).  All caloric measurements in this class will be measured in Calories, and you’ll find that this is true of all reports on the energy content of food or energy burning of exercise.  The more energy your body can get from a food, the more Calories that food has.  The more exhausting some exercise is, the more Calories have been used.  
 
