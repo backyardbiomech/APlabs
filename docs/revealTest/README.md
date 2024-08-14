@@ -1,2 +1,2 @@
-[speaker1](./testPresentation-speaker.html)
-[student1](./testPresentation.html)
+[speaker2](./testPresentation-speaker.html)
+[student2](./testPresentation.html)
