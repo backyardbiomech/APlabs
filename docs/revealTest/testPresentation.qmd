@@ -2,13 +2,12 @@
 title: "TestPresentation"
 format: 
   revealjs:
-    chalkboard: true
     plugins: 
       - multiplex
     multiplex:
-      url: 'http://localhost:3000'  # The URL of your socket.io server
-      id: '1a2b3c4d5e6f7g8h9i0j'
-      secret: '5f8a7b6c9d0e1f2g3h4i5j6k7l8m9n0o'
+      url: 'https://reveal-multiplex.glitch.me'  # The URL of your socket.io server
+      id: 'fea2aa52140b5c99'
+      secret: '17236656801768824289'
       key: '9a8b7c6d5e4f3g2h1i0j1k2l3m4n5o6p'
 ---
 
