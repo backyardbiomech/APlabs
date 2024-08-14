@@ -1,0 +1,39 @@
+---
+title: "TestPresentation"
+format: 
+  revealjs:
+    plugins:
+      - seminar
+      - chalkboard
+    seminar: 
+      broadcast: true
+      remote-control: true
+      room: 'mytestroom'
+    chalkboard:
+      boardmarker-width: 4
+      chalk-width: 2
+      color: 'rgba(255, 255, 255, 1)'
+      board: ['rgba(0, 0, 0, 0.8)', 'rgba(0, 0, 255, 0.8)']
+      storage: 'local'
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+
