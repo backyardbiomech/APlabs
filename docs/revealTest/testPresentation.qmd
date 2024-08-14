@@ -3,6 +3,7 @@ title: "TestPresentation"
 format: 
   revealjs:
     plugins: 
+      - chalkboard
       - multiplex
     multiplex:
       url: 'https://reveal-multiplex.glitch.me'  # The URL of your socket.io server
