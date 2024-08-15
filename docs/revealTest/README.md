@@ -1,3 +1,3 @@
 [speaker6](./testPresentation-speaker.html)
 [student6](./testPresentation.html)
-[seminar](./testPresentation-seminar.html)
+[seminar2](./testPresentation-seminar.html)
