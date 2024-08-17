@@ -1,3 +1,3 @@
 # APlabs
 
-[BIOL 207 Manual](207/207toc.md)
+[BIOL 206 Manual](206/206toc.md)
