@@ -3,8 +3,8 @@
 
 Each listed item below is a required item. Find each term in your book, in Mastering A&P, or online. You should be able to define and use each term.
 
-| BONE MARKINGS |  |
-| ---------------------- | ------------------------------- |
+| BONE MARKINGS                         |                   |
+| ------------------------------------- | ----------------- |
 | facet                                 | fossa             |
 | fovea                                 | sulcus (= groove) |
 | meatus (= canal)                      | fissure           |
@@ -15,11 +15,32 @@ Each listed item below is a required item. Find each term in your book, in Maste
 | protuberance                          | trochanter        |
 | line                                  |                   |
 
-| CRANIAL BONES (8) |                      |
-| ---------------------- | ------------------------------- |
-| frontal           | parietal     |
-| occipital         | temporal (2) |
-| sphenoid (2)      | ethmoid |
+| CRANIAL BONES (8)                     |                   |
+| ------------------------------------- | ----------------- |
+| frontal                               | glabella |
+|                                       | supraorbital foramen (or notch) |
+|                                       | supraorbital margin |
+| parietal                              | coronal suture |
+|                                       | saggital suture |
+| occipital                             | foramen magnum |
+|                                       | occipital condyles |
+                                        | external occipital protuberance |
+| temporal (2)                          | zygomatic process |
+|                                       | styloid process |
+|                                       | mastoid process |
+|                                       | external acoustic meatus |
+|                                       | mandibular fossa |
+| sphenoid (2)                          | optic foramen |
+|                                       | lesser wing |
+|                                       | greater wing |
+|                                       | foramen rotundum |
+|                                       | foramen ovale |
+|                                       | foamen spinosum |
+|                                       | sella turcica |
+|                                       | pterygoid process |
+| ethmoid                               | crista galli |
+|                                       | cribriform plate |
+|                                       | middle nasal concha |
 
 | FACIAL BONES (14)         |               |
 | ---------------------- | ------------------------------- |

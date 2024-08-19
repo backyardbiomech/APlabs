@@ -31,14 +31,21 @@ https://en.wikipedia.org/wiki/List_of_medical_roots,_suffixes_and_prefixes
 | frontal                | midsagittal   |
 | parasagittal           | transverse    |
 
-| CAVITIES AND QUADRANTS |                                 |
-| ---------------------- | ------------------------------- |
+| CAVITIES AND MEMBRANES
 | abdominal             | abdominopelvic |
 | cranial               | diaphragm |
 | mediastinum           | pericardial |
 | pelvic                | pleural |
 | thoracic              | vertebral |
+| parietal              | visceral | 
+| pleural membrane      | pericardinal membrane |
+| peritoneal membrane      |  |
 
+| QUADRANTS              |                                 |
+| ---------------------- | ------------------------------- |        
+| hypochondriac          | epigastric |
+| lumbar                 | umbilical |
+| iliac                  | hypogastric  |    
 
 | REGIONS AXIAL CEPHALIC |                                 |
 | ---------------------- | ------------------------------- |
