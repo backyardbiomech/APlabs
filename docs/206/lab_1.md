@@ -31,7 +31,8 @@ https://en.wikipedia.org/wiki/List_of_medical_roots,_suffixes_and_prefixes
 | frontal                | midsagittal   |
 | parasagittal           | transverse    |
 
-| CAVITIES AND MEMBRANES
+| CAVITIES AND MEMBRANES||
+|-----------------------|----------------|
 | abdominal             | abdominopelvic |
 | cranial               | diaphragm |
 | mediastinum           | pericardial |
