@@ -3,8 +3,8 @@
 
 Each listed item below is a required item. Find each term in your book, in Mastering A&P, or online. You should be able to define and use each term.
 
-| BONE MARKINGS                         |                   |
-| ------------------------------------- | ----------------- |
+| BONE MARKINGS                         |                                 |
+| ------------------------------------- | ------------------------------- |
 | facet                                 | fossa             |
 | fovea                                 | sulcus (= groove) |
 | meatus (= canal)                      | fissure           |
@@ -16,7 +16,7 @@ Each listed item below is a required item. Find each term in your book, in Maste
 | line                                  |                   |
 
 | CRANIAL BONES (8)                     |                   |
-| ------------------------------------- | ----------------- |
+| ------------------------------------- | ------------------------------- |
 | frontal                               | glabella |
 |                                       | supraorbital foramen (or notch) |
 |                                       | supraorbital margin |
@@ -42,46 +42,32 @@ Each listed item below is a required item. Find each term in your book, in Maste
 |                                       | cribriform plate |
 |                                       | middle nasal concha |
 
-| FACIAL BONES (14)         |               |
-| ---------------------- | ------------------------------- |
-| nasal (2)                 | lacrimal (2)  |
-| palatine (2)              | zygomatic (2) |
-| inferior nasal concha (2) | vomer         |
-| maxilla (2)               | mandible      |
-
-| OSSICLES (6)     |                  |
-| ---------------------- | ------------------------------- |
+| FACIAL BONES (14)                     |               |
+| ------------------------------------- | ------------------------------- |
+| nasal (2)                             | nasal bridge  |
+|lacrimal (2)                           | lacrimal fossa |
+|zygomatic (2)                          | zygomatic arch  |
+| palatine (2)                          |  |
+| mandible                              | mandibular ramus (plural: rami) |
+|                                       | mental foramen |
+|                                       | mandibular foramen |
+|                                       | mandibular condyle |      
+|                                       | manibular notch |
+|                                       | coronoid process |
+| maxilla (2)                           | zygomatic process |
+|                                       | nasal process |
+| inferior nasal concha (2)             |  |
+| vomer                                 | nasal spetum |
+| hyoid bone                            | (technically not skull !)|
+          
+| OSSICLES (6)                          |                                 |
+| ------------------------------------- | ------------------------------- |
 | malleus (hammer) | stapes (stirrup) |
 | incus (anvil)    |                  |
 
-| FACIAL STRUCTURES |      |
-| ----------------- | ---- |
-|                   |      |
-|                   |      |
-|                   |      |
-|                   |      |
-|                   |      |
-|                   |      |
-
-| OTHER FEATURES OF THE SKULL |      |
-| --------------------------- | ---- |
-|                             |      |
-|                             |      |
-|                             |      |
-|                             |      |
-|                             |      |
-|                             |      |
-|                             |      |
-|                             |      |
-|                             |      |
-|                             |      |
-|                             |      |
-|                             |      |
-|                             |      |
-|                             |      |
-|                             |      |
-|                             |      |
-|                             |      |
-|                             |      |
-|                             |      |
-
+| FEMALE SKULL                           | MALE SKULL                     |
+| ------------------------------------- | ------------------------------- |
+| more straight forehead                | more sloped forehead |
+| supraorbital ridge less prominent     | supraorbital ridge more prominent|
+| mandibular angle > 90 deg             | mandibular angle approx. 90 deg |
+| less prominent mastoid process        | more prominent mastoid process |
