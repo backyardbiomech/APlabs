@@ -7,18 +7,18 @@ The language of A&P is build on a group of word roots (core components of words 
 
 https://en.wikipedia.org/wiki/List_of_medical_roots,_suffixes_and_prefixes
 
-| GENERAL TERMS       | IMPORTANT PREFIXES AND SUFFIXES |
+| GENERAL TERMS          | IMPORTANT PREFIXES AND SUFFIXES |
 | ---------------------- | ------------------------------- |
-| anatomical position | dia-                            |
-| supine              | endo-                           |
-| prone               | ecto-                           |
-| axial               | epi-                            |
-| appendicular        | hyper-                          |
-|                     | hypo-                           |
-|                     | sub-                            |
-|                     | trans-                          |
-|                     | ante-                           |
-| | meta- |
+| anatomical position    | dia-                            |
+| supine                 | endo-                           |
+| prone                  | ecto-                           |
+| axial                  | epi-                            |
+| appendicular           | hyper-                          |
+|                        | hypo-                           |
+|                        | sub-                            |
+|                        | trans-                          |
+|                        | ante-                           |
+|                        | meta-                           |
 
 | DIRECTIONAL TERMS      |                      |
 | ---------------------- | ------------------------------- |
@@ -26,15 +26,29 @@ https://en.wikipedia.org/wiki/List_of_medical_roots,_suffixes_and_prefixes
 | inferior vs. superior  | superficial vs. deep |
 | proximal vs. distal    |                      |
 
-| REGIONS AXIAL CEPHALIC |         |
+| PLANES OF SECTIONS     |                                 |
+| ---------------------- | ------------------------------- |
+| frontal                | midsagittal   |
+| parasagittal           | transverse    |
+
+| CAVITIES AND QUADRANTS |                                 |
+| ---------------------- | ------------------------------- |
+| abdominal             | abdominopelvic |
+| cranial               | diaphragm |
+| mediastinum           | pericardial |
+| pelvic                | pleural |
+| thoracic              | vertebral |
+
+
+| REGIONS AXIAL CEPHALIC |                                 |
 | ---------------------- | ------------------------------- |
 | buccal                 | cranial |
 | cephalic               | frontal |
-| mental                 | nasal?? |
+| mental                 | nasal   |
 | occipital              | ocular  |
 | oral                   | otic    |
 
-| REGIONS AXIAL |          |
+| REGIONS AXIAL          |                                 |
 | ---------------------- | ------------------------------- |
 | abdominal     | cervical |
 | gluteal       | inguinal |
@@ -43,7 +57,7 @@ https://en.wikipedia.org/wiki/List_of_medical_roots,_suffixes_and_prefixes
 | sternal       | thoracic |
 | vertebral     |          |
 
-| REGIONS APPENDICULAR |            |
+| REGIONS APPENDICULAR   |                                 |
 | ---------------------- | ------------------------------- |
 | upper limb           | lower limb |
 | acromial             | coxal      |
