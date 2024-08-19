@@ -24,7 +24,7 @@ Each listed item below is a required item. Find each term in your book, in Maste
 |                                       | saggital suture |
 | occipital                             | foramen magnum |
 |                                       | occipital condyles |
-                                        | external occipital protuberance |
+|                                       | external occipital protuberance |
 | temporal (2)                          | zygomatic process |
 |                                       | styloid process |
 |                                       | mastoid process |
