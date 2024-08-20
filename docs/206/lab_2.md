@@ -95,4 +95,23 @@ Each listed item below is a required item. Find each term in your book, in Maste
 ||spinal nerve root|
 ||spinous process|
 ||transverse processarticular processes|
+|sacrum|base|
+||apex|
+||sacral canal|
+|coccyx||
+
+| BONES OF THE THORACIC CAGE            |                                 |
+| ------------------------------------- | ------------------------------- |
+| sternum | manubrium |
+|| body |
+|| xiphoid process |
+| ribs | head |
+|| neck |
+|| tubercle |
+||costal groove |
+|| facets for articulation |
+|| true vs. false rib|
+|| floating rib |
+|| coastal cartilage |
+
 
