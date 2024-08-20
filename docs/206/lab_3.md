@@ -1,5 +1,5 @@
 <p style='text-align: center;'> <h1>BIOL 206 Human Anatomy & Physiology I </h1> </p>
-<p style='text-align: center;'> <h2> Axial Skeleton</h2> </p>
+<p style='text-align: center;'> <h2> Appendicuklar Skeleton</h2> </p>
 
 Each listed item below is a required item. Find each term in your book, in Mastering A&P, or online. You should be able to define and use each term.
 
@@ -14,8 +14,6 @@ Each listed item below is a required item. Find each term in your book, in Maste
 | process                               | spine             |
 | protuberance                          | trochanter        |
 | line                                  |                   |
-
-<h3> The Skull </h3>
 
 | CRANIAL BONES (8)                     |                   |
 | ------------------------------------- | ------------------------------- |
@@ -73,26 +71,3 @@ Each listed item below is a required item. Find each term in your book, in Maste
 | supraorbital ridge less prominent     | supraorbital ridge more prominent|
 | mandibular angle > 90 deg             | mandibular angle approx. 90 deg |
 | less prominent mastoid process        | more prominent mastoid process |
-
-
-<h3> The vertebral Column and Thoracic Cage </h3>
-
-| REGIONS OF THE VERTEBRAL COLUMN       |                                 |
-| ------------------------------------- | ------------------------------- |
-| cervical (7)                          | thoracic (12) |
-| lumbar (5)                            | sacral (5 fused)|
-| coccygeal (3-5 fused)                 |  |
-
-
-| BONES OF THE VERTEBRAL COLUMN         |                                 |
-| ------------------------------------- | ------------------------------- |
-| vertebra (plural: vertebrae)          | body (centrum) |
-|                                       | vertebral arch|
-|                                       | lamina |
-|                                       | pedicle|
-||vertebral canal (or foramen)|
-||intervertebral disc|
-||spinal nerve root|
-||spinous process|
-||transverse processarticular processes|
-
