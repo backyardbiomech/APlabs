@@ -5,7 +5,7 @@ Each item listed below is a required item. Find each term in your book, in Maste
 
 The language of A&P is build on a group of word roots (core components of words with specific meanings) and specific prefixes and suffixes (word beginnings and endings) to make up the scientific terms. A comprehensive list can be found here:
 
-https://en.wikipedia.org/wiki/List_of_medical_roots,_suffixes_and_prefixes
+(https://en.wikipedia.org/wiki/List_of_medical_roots,_suffixes_and_prefixes)
 
 | GENERAL TERMS          | IMPORTANT PREFIXES AND SUFFIXES |
 | ---------------------- | ------------------------------- |
