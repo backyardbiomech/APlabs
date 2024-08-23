@@ -3,11 +3,11 @@
 
 Each item listed below is a required item. Find each term in your book, in Mastering A&P, or online. You should be able to define and use each term. Anatomical terminology differs slightly between every text book. Multiple terms are correct, but you need to memorize only one. The terms on this sheet are recommended. Note that all of the terms will show up in a bone, muscle, or nerve name, so learning them now will make things easier in the future.
 
-The language of A&P is build on a group of word roots (core components of words with specific meanings) and specific prefixes and suffixes (word beginnings and endings) to make up the scientific terms. A comprehensive list can be found here:
+The language of Anatomy & Physiology is built on a group of word roots (core components of words with specific meanings) and specific prefixes and suffixes (word beginnings and endings) to make up the scientific terms. A comprehensive list can be found here:
 
 (https://en.wikipedia.org/wiki/List_of_medical_roots,_suffixes_and_prefixes)
 
-| GENERAL TERMS          | IMPORTANT PREFIXES AND SUFFIXES |
+| GENERAL TERMS          | IMPORTANT PREFIXES              |
 | ---------------------- | ------------------------------- |
 | anatomical position    | dia-                            |
 | supine                 | endo-                           |
@@ -24,12 +24,13 @@ The language of A&P is build on a group of word roots (core components of words 
 | ---------------------- | ------------------------------- |
 | anterior vs. posterior | medial vs. lateral   |
 | inferior vs. superior  | superficial vs. deep |
-| proximal vs. distal    |                      |
+| proximal vs. distal    | ventral vs. dorsal   |
 
 | PLANES OF SECTIONS     |                                 |
 | ---------------------- | ------------------------------- |
 | frontal                | midsagittal   |
 | parasagittal           | transverse    |
+| coronal                | horizontal    |
 
 | CAVITIES AND MEMBRANES||
 |-----------------------|----------------|
@@ -39,14 +40,14 @@ The language of A&P is build on a group of word roots (core components of words 
 | pelvic                | pleural |
 | thoracic              | vertebral |
 | parietal              | visceral | 
-| pleural membrane      | pericardinal membrane |
+| pleural membrane      | pericardial membrane |
 | peritoneal membrane      |  |
 
-| QUADRANTS              |                                 |
+| 9 ABDOMINAL REGIONS    |                                 |
 | ---------------------- | ------------------------------- |        
-| hypochondriac          | epigastric |
-| lumbar                 | umbilical |
-| iliac                  | hypogastric  |    
+| hypochondriac (l & r)  | epigastric |
+| lumbar (l & r)         | umbilical |
+| iliac (l & r)          | hypogastric (suprapubic)  |    
 
 | REGIONS AXIAL CEPHALIC |                                 |
 | ---------------------- | ------------------------------- |
@@ -67,8 +68,8 @@ The language of A&P is build on a group of word roots (core components of words 
 
 | REGIONS APPENDICULAR   |                                 |
 | ---------------------- | ------------------------------- |
-| upper limb           | lower limb |
-| acromial             | coxal      |
+| upper limb (extremity) | lower limb (extremity)|
+| acromial               | coxal      |
 | antebrachial         | crural     |
 | antecubital          | femoral    |
 | axillary             | hallux     |
