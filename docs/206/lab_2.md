@@ -10,7 +10,7 @@ Each listed item below is a required item. Find each term in your book, in Maste
 | meatus (= canal)                      | fissure           |
 | foramen (plural: foramina)            | condyle           |
 | crest                                 | head              |
-| tubercle or in larger form: tuberosity | epicondyle        |
+| tubicle or in larger form: tuberosity | epicondyle        |
 | process                               | spine             |
 | protuberance                          | trochanter        |
 | line                                  |                   |
@@ -23,7 +23,7 @@ Each listed item below is a required item. Find each term in your book, in Maste
 |                                       | supraorbital foramen (or notch) |
 |                                       | supraorbital margin |
 | parietal                              | coronal suture |
-|                                       | sagittal suture |
+|                                       | saggital suture |
 | occipital                             | foramen magnum |
 |                                       | occipital condyles |
 |                                       | external occipital protuberance |
@@ -37,7 +37,7 @@ Each listed item below is a required item. Find each term in your book, in Maste
 |                                       | greater wing |
 |                                       | foramen rotundum |
 |                                       | foramen ovale |
-|                                       | foramen spinosum |
+|                                       | foamen spinosum |
 |                                       | sella turcica |
 |                                       | pterygoid process |
 | ethmoid                               | crista galli |
@@ -54,12 +54,12 @@ Each listed item below is a required item. Find each term in your book, in Maste
 |                                       | mental foramen |
 |                                       | mandibular foramen |
 |                                       | mandibular condyle |      
-|                                       | mandibular notch |
+|                                       | manibular notch |
 |                                       | coronoid process |
 | maxilla (2)                           | zygomatic process |
 |                                       | nasal process |
 | inferior nasal concha (2)             |  |
-| vomer                                 | nasal septum |
+| vomer                                 | nasal spetum |
 | hyoid bone                            | (technically not skull !)|
           
 | OSSICLES (6)                          |                                 |
@@ -94,8 +94,7 @@ Each listed item below is a required item. Find each term in your book, in Maste
 ||intervertebral disc|
 ||spinal nerve root|
 ||spinous process|
-||transverse process|
-||articular process (2)|
+||transverse processarticular processes|
 |sacrum|base|
 ||apex|
 ||sacral canal|
