@@ -1,5 +1,5 @@
 <p style='text-align: center;'> <h1>BIOL 206 Human Anatomy & Physiology I </h1> </p>
-<p style='text-align: center;'> <h2> Appendicular Skeleton</h2> </p>
+<p style='text-align: center;'> <h2> Upper Appendicular Skeleton</h2> </p>
 
 Each listed item below is a required item. Find each term in your book, in Mastering A&P, or online. You should be able to define and use each term.
 
