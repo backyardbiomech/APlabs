@@ -19,7 +19,7 @@ Each listed item below is a required item. Find each term in your book, in Maste
 | | conoid tubercle |
 | | shaft |
 
-| UPPER LIMB (2 x 64)   |                   |
+| UPPER LIMB (2 x 30) |                   |
 | ------------------------------------- | ------------------------------- |
 | humerus | head |
 |            | anatomical neck |
