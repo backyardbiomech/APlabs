@@ -1,6 +1,15 @@
 <p style='text-align: center;'> <h1>BIOL 206 Human Anatomy & Physiology I </h1> </p>
 <p style='text-align: center;'> <h2> Anatomical Terminology</h2> </p>
 
+## Objectives
+
+After studying this material, students should be able to:
+
+1. Demonstrate and describe the anatomical position
+2. Describe the human body using directional and regional terms
+3. Identify three planes most commonly used in the study of anatomy
+4. Distinguish between the posterior (dorsal) and the anterior (ventral) body cavities, identifying their subdivisions and representative organs found in each
+
 Each item listed below is a required item. Find each term in your book, in Mastering A&P, or online. You should be able to define and use each term. Anatomical terminology differs slightly between every text book. Multiple terms are correct, but you need to memorize only one. The terms on this sheet are recommended. Note that all of the terms will show up in a bone, muscle, or nerve name, so learning them now will make things easier in the future.
 
 The language of Anatomy & Physiology is built on a group of word roots (core components of words with specific meanings) and specific prefixes and suffixes (word beginnings and endings) to make up the scientific terms. A comprehensive list can be found here:
