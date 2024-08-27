@@ -4,6 +4,8 @@
 2. Learn how to analyze Data in LabChart
 3. Make simple recordings and measurements using the Finger Pulse Transducer
 
+**Note:** The LabChart Software License is limited to the lab computers. However, you can download for free [LabChart Reader](https://www.adinstruments.com/support/software) for your personal computer operating system. This will allow you analyze data collected in the lab. Due to time constraints in lab, installing this is highly recommended.
+
 ## Background
 
 The purpose of the PowerLab system is to acquire, store, and analyze data.  The raw input signal is in the form of an analog voltage whose amplitude varies continuously over time.  This voltage is monitored by the hardware, modified (e.g. amplified, filtered, and zeroed), and sampled at regular intervals.  The signal is then converted from analog to digital form and recorded on the attached computer.  Figure 1 shows a summary of the acquisition.  
