@@ -67,7 +67,18 @@ Lab tips:
 ### Lab Procedure:
 
 #### Overview:
-In each of these experiments you will pull a “mouse” from the warm water bath, dry it thoroughly, suspend the mouse from your ring stand, start recording, record ambient temperature, insert the temperature probe, and begin a treatment.  You will then record the mouse’s temperature for at least five minutes, sometimes longer.
+In each of these experiments you will:
+
++ pull a “mouse” from the warm water bath
++ dry it thoroughly (except for one)
++ suspend the mouse from your ring stand
++ start recording
++ record ambient temperature
++ insert the temperature probe and add a comment
++ begin a treatment while recording the mouse’s temperature for at least five minutes, sometimes longer
++ when complete, take the measurements needed to calculate the surface area of the mouse
+
+Throughout, you should take good notes to keep track of what you did and any measurements.
 
 The temperature probe is a small, white waterproof wire which plugs into port 1 on the PowerLab. 
 
@@ -84,90 +95,94 @@ In this experiment we will estimate the effect of natural convection on the effe
 5. Click `Start` to start recording.
 6. After several seconds of recording the air temperature, insert the probe to the center of the mouse, add a comment like `probe inserted` to the recording, and move your hands away. 
 7. Do not move around the mouse - this will increase air flow and increase convection.
-8. You should immediately see the temperature rise, but after a few moments it should begin to slowly decline.
+8. You should immediately see the temperature rise, but after a few moments it should begin to slowly decline, and continue to decline consistently for the full time of the recording.
+   1. If it goes back up and down, the probe may have moved, or someone disturbed the air around the mouse. Start again with a fresh mouse.
 9. Continue recording for **5 minutes** while trying to avoid any disturbances to the air around the mouse.
-10. After 5 minutes, stop recording and save your data using a meaningful name. I recommend `LastName_NaturalConvection`.
-11. Using the marker, you need to extract the values needed in the half-life equation above. Lucky for you, I've already set up the DataPad.
-    1. Use your cursor to select a few seconds of the ambient temperature recording. Add to DataPad
-    2. Now select from about **1 minute after** the peak temp to about 1.5 minutes after peak temp (so select about 30 s of the graph, you don't have to be exact). **Add to DataPad**.
-    3. Repeat these 30 second selections and add to DataPad for selections starting at 2, 3, and 4 minutes after the peak.
-12. Now view the DataPad. For each selection you will see the start and end times, and the start, end, and average temperatures.  
-13. Save the DataPad as a csv file, and share it with yourself (USB stick, email, etc). The rest of the analysis can be done in Excel or Google Sheets.
+10. After 5 minutes, stop recording and save your data using a meaningful name. I recommend `LastName_NaturalConvection.adicht`.
+11. Share that file with yourself (USB stick, email, etc). You can extract the rest of the data in the [free LabChart Reader](https://www.adinstruments.com/support/software) on your personal computer. 
+12. Take the measurements needed to calculate the surface area of the mouse
 
 ##### Data Analysis
-1. Open the DataPad csv file in Excel
-2. Use those values (not all, just the correct ones) in the table for Experiment 1 in the `Lab1_data_template.xls` to calculate half-life. 
-3.  Your value for half-life should be between 200 and 800 seconds. If it is not, consider possible sources of error and check your data.  The three samples will probably give similar but not identical measures of half-life. 
+1. Open the data file in `LabChart Reader` (or `LabChart` on a lab computer if there is time)
+2. Open a DataPad viewer. Confirm or set up the following:
+   1. Click below column label `A`, click on `Selection & Active Point`, and select `Selection Start`. 
+   2. At the top of that dialog, click on the right arrow to change to `column B`, and set it to `Selection End`.
+   3. Go to `column C` and and in `Selection and Active Point` choose `Value`, and make sure that under `Calculation Source` that the source channel is set to `Ch 1 Temperature`.
+   4. Go to `column D`, select `Statistics`,  `End Value - Start Value`, and make sure that under `Calculation Source` that the source channel is set to `Ch 1 Temperature`.
+   5. Go to `column E`, select `Statistics`, `mean`, and make sure that under `Calculation Source` that the source channel is set to `Ch 1 Temperature`.
+3. Use your cursor to select a few seconds of the ambient temperature recording. **Add to DataPad**
+4. Now select from about **1 minute after the peak temp** to about 1.5 minutes after peak temp (so select about 30 s of the graph, you don't have to be exact). **Add to DataPad**.
+    1. Repeat these 30 second selections and add to DataPad for selections starting at 2, 3, and 4 minutes after the peak.
+    2. If you think you messed up, it's best to select all the rows in the DataPad, delete the data, and start selecting and adding again.
+5. View the DataPad. For each selection you will see the start and end times, the start temperature, the change in temperature, and the mean temperature during that selection (we'll only use this for ambient)
+6. Open the thermoregulation data worksheet in Excel.
+7. In DataPad, select the first row (that was the ambient temperature), copy, and paste it into the correct place in Excel.
+8. Copy the four rows representing the four 30 s selections, and paste into the proper place in Excel.
+9. Use Excel formulas to calculate the end temperature for each of the 30 s intervals, then calculate half-life by converting the equations above into Excel formulas.
+10. Your value for half-life should be between 200 and 800 seconds. If it is not, consider possible sources of error and check your data.
 
-Experiment 2 – “Forced convection”
-Now we’ll fan the “mouse” using a folded piece of paper to see just how much faster forced convection cools the animal.  
+#### Experiment 2 – “Forced convection”
+Everything here is basically the same as the last experiment in terms of measurement procedures. Now, however, we’ll fan the “mouse” using a folded piece of paper to see just how much faster forced convection cools the animal, as measured by the half-life.  
 
-1.  Get a new shiny mouse from the tank (and put your old one back in it to warm it up again).  Dry it off with a towel.
+1. Get a new warm shiny mouse from the tank. Dry it off with a towel.
+2. Hang the mouse from the ring-stand, start recording data  while holding the temperature probe by the wire in mid-air.  Collect data for a few seconds to get a measurement of ambient air temperature.
+3. Insert the temperature probe into the center of “mouse”, add a comment like `probe inserted` to the recording, move your hands away, and continue recording. Begin gently fanning the mouse at a steady rate. Keep it up for at least 5 minutes.
+4. After 5 minutes, stop recording and save the data with a meaningful name. Share the data with yourself for analysis on your own computer.
+5. Take the measurements needed to calculate the surface area of the mouse
+6. Use the same DataPad process as above, select and save ranges of data. Copy, and paste into the appropriate places in the Excel file, then compute the four measurements of half-life under conditions of `forced convection`.
 
-2. Hang the mouse from the ring-stand and begin recording data in LabScribe while holding the temperature probe by the wire in mid-air.  Collect data for a few seconds to get a measurement of room air temperature.
+#### Experiment 3 – “Radiant heat gain and loss”
+Next we’ll use mouse color phenotypes – the shiny type and the flat black type to examine how absorptivity and emissivity influence thermoregulation.
 
-3. Insert the temperature probe into the “mouse” and continue recording. Begin gently fanning the mouse at a steady rate.
+1. Get a desk lamp and plug it in. Position it so that you will be able to get the bulb about 10 cm from a hanging mouse.
+2. Get a flat black mouse from the tank. Dry it off with a towel.
+3. Hang the mouse from the ring-stand and start recording data while holding the temperature probe by the wire in mid-air. Collect data for a few seconds to get a measurement of room air temperature.
+4. Turn on your desk lamp and point it at the mouse.  Position the bulb about 10 cm away from the side of the mouse (not the end, and definitely not the wire).
+5. Insert the temperature probe into the “mouse”, add a comment like `probe inserted` to the recording, move your hands away, and continue recording for 5 minutes. **DO NOT STOP THE RECORDING!
+6. Turn off your desk lamp. Insert a comment of `light off` in LabChart.
+7. Allow recording to continue for another 5 minutes with the light off, then stop it and save the data file with a meaningful name.
+8. Perform steps 1-7 using a shiny mouse. Share both files with yourself for analysis on another computer.
+9. Take the measurements needed to calculate the surface area of the mouse.
+10. Using the same DataPad process as above, select and save ranges of data. Copy, and paste into the appropriate places in the Excel file, then compute the four measurements of half-life under conditions of `radiant heat gain and loss`.
 
-4. After 5 minutes, stop recording and save the data.  Input your results into the data template and compute the four measurements of half-life under conditions of forced convection.
+#### Experiment 4 – “Evaporative heat loss” Optional if sufficient time
+Our mouse should cool down much more rapidly if it uses evaporative cooling.  We’ll mimic mouse sweating (or panting) by giving the mouse a wet coat to hold liquid water next to its body and let it evaporate.
 
-Experiment 3 – “Radiant heat gain and loss”
-Next we’ll use our two mouse phenotypes – the shiny type and the flat black type to examine how absorptivity and emissivity influence thermoregulation.
-
-1.  Get a flat black mouse from the tank (and put your old one back in it to warm up again).  Dry it off with a towel.
-
-2. Hang the mouse from the ring-stand and begin recording data in LabScribe while holding the temperature probe by the wire in mid-air.  Collect data for a few seconds to get a measurement of room air temperature.
-
-3. Turn on your desk lamp and point it at the mouse.  Position the bulb about 2 inches away.
-
-4. Insert the temperature probe into the “mouse” and record for 5 minutes.
-
-5.  Turn off your desk lamp, Insert a mark of “light off” in LabChart (type “light off” and hit enter).
-
-6. Allow recording to continue for another 5 minutes with the light off, then stop it and save the data file.
-
-7. Perform steps 1-5 using a shiny mouse.
-
-8. Enter your data into the table in the data worksheet and calculate the half-life values for the different intervals, both before and after turning the lamp off.
-
-
-Experiment 4 – “Evaporative heat loss”
-Our mouse should cool down much more rapidly if it uses evaporative cooling.  We’ll mimic mouse sweating (or panting) by giving the mouse a coat of Kimwipe to hold liquid water next to its body and slowly drip the water onto it.
-
-1.  Get a shiny mouse from the tank (and put your old one back in it to warm up again).  Dry it off with a towel.
-
-2. Cut out a small square of Kimwipe and fit it over the top of the mouse like a cap, be sure to make a hole for the temperature probe and string.
-
-3. Hang the mouse from the ring-stand and begin recording data in LabScribe while holding the temperature probe by the wire in mid-air.  Collect data for a few seconds to get a measurement of room air temperature.
-
-4 Insert the temperature probe into the “mouse” and continue recording. You should immediately see the temperature rise, but after a few moments it should begin to slowly decline.
-
-5. Fill a small beaker with warm water from the water bath and use a dropper to wet the Kimwipe.  Insert a LabScribe mark whenever you wet the mouse.
-
-6. Record for 5 minutes, keeping the mouse damp but not so wet that water drips off the bottom.
-
-7. Enter your data into the worksheet and calculate the half-life values.
+1. Get a shiny mouse from the tank. DON'T dry it off. Instead, while its wet, wrap it with a single layer of Kimwipes (cut to size). Ensure the paper is fully wet. Add some drops from the water bath if necessary.
+2. Hang the mouse from the ring-stand and begin recording data while holding the temperature probe by the wire in mid-air.  Collect data for a few seconds to get a measurement of room air temperature.
+4. Insert the temperature probe into the “mouse” and continue recording, add a comment like `probe inserted` to the recording, and move your hands away. You should immediately see the temperature rise, but after a few moments it should begin to slowly decline.
+5. Record for 5 minutes, the stop. Save your data file with a meaningful name.
+6. Share the file with yourself for analysis on another computer.
+7. Take the measurements needed to calculate the surface area of the mouse.
+8. Using the same DataPad process as above, select and save ranges of data. Copy, and paste into the appropriate places in the Excel file, then compute the four measurements of half-life under conditions of `evaporative heat loss`.
 
 
-Experiment 5 – “fleecy mouse”
+#### Experiment 5 – “Fleecy mouse” Optional if time permits
 Our model mice are unlike most organisms in that they lack any form of insulation, fur or otherwise.  Here we’ll mimic the effect of one of the better biological insulators by wrapping our mouse in a small blanket.
 
-1.  Get a shiny mouse from the tank (and put your old one back in it to warm up again).  Dry it off with a towel.
+1. Get a shiny mouse from the tank. Dry it off with a towel. Wrap it in a piece of cloth towel or fleece, held on with a rubber band.
+2. Hang the mouse from the ring-stand and begin recording data while holding the temperature probe by the wire in mid-air.  Collect data for a few seconds to get a measurement of room air temperature.
+3. Insert the temperature probe into the “mouse” and continue recording, add a comment like `probe inserted` to the recording, and move your hands away. You should immediately see the temperature rise, but after a few moments it should begin to slowly decline.
+4. Record for 5 minutes, the stop. Save your data file with a meaningful name.
+5. Share the file with yourself for analysis on another computer.
+6. Take the measurements needed to calculate the surface area of the mouse
+7. Using the same DataPad process as above, select and save ranges of data. Copy, and paste into the appropriate places in the Excel file, then compute the four measurements of half-life under conditions of `insulation`.
 
-2.  Start recording to get a room temperature, then insert the temperature sensor into the mouse and rubberband the blanket around it.
 
-3.  Record for 5 minutes, then stop and save your data.
+### Data analysis & calculations
 
-4. Enter the results into the spreadsheet and calculate half-life measurements for the insulated mouse. 
+Your lab notebook questions ask you to make several calculations. In addition to the formula above, the following will be helpful; some algebra skills will also be helpful.
 
+Your calculations in the Excel sheet calculated the temperature half life based on the **data**, but note that to do those calculations you didn't have to use conductivity, heat capacity, surface area, or anything else. 
 
-Data analysis & calculations.
-First, familiarize yourself with the formula below for direct calculation of the half-life of cooling due to conductive heat loss:
+There are other formula that you could use, if you knew the specific measurements, to **predict** half life. For example, to predict the half-life of cooling due to conductive heat loss:
 
-where A is the animal’s surface area, cp is the animal’s heat capacity (4 calories per degree Celsius for your mouse), logn(2) is the natural logarithm of 2, k is the conductivity of the insulator and l is the thickness of the boundary layer.
+$$t_{1/2} = \frac{\ln{(2)}c_pl}{kS}$$
+
+where $S$ is the animal’s surface area, $c_p$ is the animal’s heat capacity (see above), $\ln{(2)}$ is the natural logarithm of 2, $k$ is the conductivity of the insulator and $l$ is the thickness of the boundary layer.
 
 In cases where radiant heat loss is also important, half-life can be approximated by:
 
-where C is a lumped term representing emissivity, surface area and Stefan-Boltzmann’s constant.  Note that radiant heat loss is actually proportional to the 4th power of temperature, so this formulation is only an approximation valid for half-life measured over small temperature changes.
+$$t_{1/2} = \frac{\ln{(2)}c_pl}{kS}-\ln{(2)}C$$
 
-
-
+where $C$ is a lumped term representing emissivity, surface area and Stefan-Boltzmann’s constant.
