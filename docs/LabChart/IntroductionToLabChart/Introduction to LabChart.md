@@ -83,7 +83,7 @@ Time to record some sample data, and learn how to navigate your way around the d
 2. Move the pointer over the scale at the left of the Chart View.  The pointer changes to point to the right and small arrows appear beside it.  When the pointer is over the scale, you can either stretch or move the scale by dragging the scale numbers or the scale between them.  The small arrows beside the pointer indicate what will happen. Try a few click and drags to see how the y-axis range changes. 
 3. The `Scaling buttons` (up and down) are on the left side of each channel’s Amplitude axis. The up button will double the vertical scale shown, and the button will halve the vertical scale shown
 4. Right-clicking in the channel will show several options for displaying data:
-    + `Auto Scale Channel` will automatically adjust the y-axis so the maximum value is just larger than the maximum value of visible data in this channel. **This may be one of your most used functions!**. You can also find it in the `View` menu, and there's button for it in the toolbar.
+    + `Auto Scale Channel` will automatically adjust the y-axis so the maximum value is just larger than the maximum value of visible data in this channel. **This may be one of your most used functions!**. You can also find it in the `Commands` menu, and there's button for it in the toolbar.
     + Show Points as Dots and Show All Channels with Dots will show you the individual points the PowerLab is sampling.
     + If you changed the size of the data channel, Equalize Channel Heights will make all the data channels the same size again.
     + Split View inserts a divider vertically in the data creating two separate scrollable regions. This allows you to view recorded data while still monitoring new data.
