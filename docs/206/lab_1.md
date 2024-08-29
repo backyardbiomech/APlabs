@@ -73,18 +73,24 @@ The language of Anatomy & Physiology is built on a group of word roots (core com
 | sternal       | thoracic |
 | vertebral     |          |
 
-| REGIONS APPENDICULAR   |                                 |
+| REGIONS APPENDICULAR   |  UPPER                               |
 | ---------------------- | ------------------------------- |
-| upper limb (extremity) | lower limb (extremity)|
-| acromial               | coxal      |
-| antebrachial         | crural     |
-| antecubital          | femoral    |
-| axillary             | hallux     |
-| brachial             | metatarsal |
-| carpal               | patellar   |
-| digital              | pedal      |
-| manual               | plantar    |
-| metacarpal           | popliteral |
-| palmar               | sural      |
-| pollex               | tarsal     |
+| upper limb (extremity) | |
+|axillary| acromial |
+|brachial| antecubital |
+|antebrachial|carpal |
+|manual|metacarpal|
+|palmar|digital| 
+|pollex||
 
+| REGIONS APPENDICULAR   |  LOWER                               |
+| ---------------------- | ------------------------------- |
+| lower limb (extremity) | 
+| coxal| femoral|
+|crural| patellar|
+|popliteral| sural|
+|pedal|tarsal|
+|metatarsal| plantar|
+|digital|hallux|
+
+      
