@@ -16,16 +16,16 @@ The language of Anatomy & Physiology is built on a group of word roots (core com
 
 | GENERAL TERMS          | IMPORTANT PREFIXES              |
 | ---------------------- | ------------------------------- |
-| anatomical position    | dia-                            |
-| supine                 | endo-                           |
-| prone                  | ecto-                           |
-| axial                  | epi-                            |
-| appendicular           | hyper-                          |
-|                        | hypo-                           |
-|                        | sub-                            |
-|                        | trans-                          |
-|                        | ante-                           |
-|                        | meta-                           |
+| anatomical position    | dia-    = across, through       |
+| supine                 | endo-   = within                |
+| prone                  | ecto-   = ouside         |
+| axial                  | epi-    = upon,near      |
+| appendicular           | hyper-  = over           |
+|                        | hypo-   = under          |
+|                        | sub-    = below, under   |
+|                        | trans-  = beyond, through|
+|                        | ante-   = before         |
+|                        | meta-   = after, beyond  |
 
 | DIRECTIONAL TERMS      |                      |
 | ---------------------- | ------------------------------- |
@@ -37,7 +37,7 @@ The language of Anatomy & Physiology is built on a group of word roots (core com
 | ---------------------- | ------------------------------- |
 | frontal                | midsagittal   |
 | parasagittal           | transverse    |
-| coronal                | horizontal    |
+| oblique                | horizontal    |
 
 | CAVITIES AND MEMBRANES||
 |-----------------------|----------------|
