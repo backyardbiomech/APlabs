@@ -63,3 +63,4 @@ Each listed item below is a required item. Find each term in your book, in Maste
 |Radio-Ulnar (proximal and distal)|Radiocarpal (Wrist)|
 |Intercarpal|Carpometacarpal|
 |metacarpophalangeal (knuckle): I - V (proximal and distal)||
+
