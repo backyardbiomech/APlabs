@@ -1,27 +1,27 @@
 import os
 import subprocess
 
-def read_terms(file_path):
-    """Read terms from a markdown file, remove duplicates, and return a sorted list of terms."""
+def read_terms(file_list):
+    """Read terms from a list of markdown files, remove duplicates, and return a sorted list of terms."""
     terms = []
     in_yaml_header = False
-
-    with open(file_path, 'r') as file:
-        for line in file:
-            line = line.strip()
-            if line == '---':
-                in_yaml_header = not in_yaml_header  # Toggle the YAML header flag
-                continue
-            if not in_yaml_header and line:  # Only read terms if not in the YAML header
-                terms.append(line)
-    # Remove duplicates and return sorted terms
+    for file_path in file_list:
+        with open(file_path, 'r') as file:
+            for line in file:
+                line = line.strip()
+                if line == '---':
+                    in_yaml_header = not in_yaml_header  # Toggle the YAML header flag
+                    continue
+                if not in_yaml_header and line:  # Only read terms if not in the YAML header
+                    terms.append(line)
+        # Remove duplicates and return sorted terms
     return sorted(set(terms))
 
 def escape_latex(term):
     """Escape special LaTeX characters in a term."""
     return term.replace('&', '\\&')
 
-def create_markdown_table(terms, rows_per_table=49, columns=4):
+def create_markdown_table(terms, rows_per_table=46, columns=4):
     """Create LaTeX longtables from the sorted list of terms with fixed column widths and text wrapping."""
     column_width = '4.5cm'
     tables = []
@@ -71,12 +71,14 @@ def export_to_pdf(markdown_file, output_pdf):
         print(f"An error occurred while exporting to PDF: {e}")
 
 def main():
-    input_file = 'bonesWordBank.md'  # Change this to your input markdown file name
+    input_bones_file = 'bonesWordBank.md'  # Change this to your input markdown file names
+    input_muscles_file = 'musclesWordBank.md'
+    
     output_markdown_file = 'output_table.md'  # Change this to your desired output file name
-    output_pdf_file = 'bones_wordBank.pdf'  # Desired output PDF file name
+    output_pdf_file = 'bonesAndMuscles_wordBank.pdf'  # Desired output PDF file name
 
     # Read terms, create table, and write to output markdown file
-    terms = read_terms(input_file)
+    terms = read_terms([input_bones_file, input_muscles_file])
     markdown_table = create_markdown_table(terms)
 
     # Prepare the full markdown content with YAML header
