@@ -8,7 +8,7 @@ Each listed item below is a required item. Find each term in your book, in Maste
 | The pelvis, hip, or coxal bone consists of 3 fused bones: |      |
 | ilium | iliac fossa |
 |                       | illiac crest |
-|                       | anterior supirior iliac spine (AIIS) |
+|                       | anterior superior iliac spine (AIIS) |
 |                       | anterior superior iliac spine (ASIS) |
 |                       | posterior inferior iliac spine (PIIS) |
 |                       | posterior superior iliac spine (PSIS) |
@@ -16,8 +16,10 @@ Each listed item below is a required item. Find each term in your book, in Maste
 |                       | greater sciatic notch |
 | ischium | ischial ramus |
 |                       | ischial tuberosity |
+|                        |lesser sciatic notch|
 | pubis | pubic crest |
-|                       | pubic arch |
+|                        |pubic ramus|
+|                       | pubic arch or angle|
 | acetabulum (formed by all three bones) |  |
 | obturator foramen (formed by ischium and pubis) |  |
 
