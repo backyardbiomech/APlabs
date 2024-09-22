@@ -10,7 +10,7 @@ Each listed item below is a required item. Find each term in your book, in Maste
 | meatus (= canal)                      | fissure           |
 | foramen (plural: foramina)            | condyle           |
 | crest                                 | head              |
-| tubicle or in larger form: tuberosity | epicondyle        |
+| tubercle or in larger form: tuberosity | epicondyle        |
 | process                               | spine             |
 | protuberance                          | trochanter        |
 | line                                  |                   |
@@ -23,7 +23,7 @@ Each listed item below is a required item. Find each term in your book, in Maste
 |                                       | supraorbital foramen (or notch) |
 |                                       | supraorbital margin |
 | parietal                              | coronal suture |
-|                                       | saggital suture |
+|                                       | sagittal suture |
 | occipital                             | foramen magnum |
 |                                       | occipital condyles |
 |                                       | external occipital protuberance |
@@ -112,6 +112,6 @@ Each listed item below is a required item. Find each term in your book, in Maste
 || facets for articulation |
 || true vs. false rib|
 || floating rib |
-|| coastal cartilage |
+|| costal cartilage |
 
 
