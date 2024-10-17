@@ -129,4 +129,4 @@ Use the directions below to analyze the data you just recorded and to answer the
     1.  The first is your highlight for **flexion**.
     2.  The second is your highlight for **extension**.
     3.  The third and on is **one book**, **two books**, **three books**, etc.
-17. Write down those values in the table in your notebook.
+17. Write down those values in the table in your [lab report](./lab_reports/Lab_report_emg.pdf).
