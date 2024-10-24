@@ -1,5 +1,5 @@
 <p style='text-align: center;'> <h1>BIOL 206 Human Anatomy & Physiology I </h1> </p>
-<p style='text-align: center;'> <h2> Muscles of the Pectoral Girdle</h2> </p>
+<p style='text-align: center;'> <h2> Muscles of the Pelvic Girdle</h2> </p>
 
 For each muscle listed below, you are responsible for identifying it on a model or drawing, knowing its origin, insertion, and action. You can find similar tables in your book. The tables below are somewhat (or significantly) simplified from the book. Still, you should find each term in your book, in Mastering A&P, or online.
 
