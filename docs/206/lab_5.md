@@ -10,8 +10,8 @@ For each muscle listed below, you are responsible for identifying it on a model 
 | ***orbicularis oculi***                 | Closes eye (squint)                     | medial orbit: frontal and maxilla bones | skin of eyelids                      |
 | ***orbicularis oris***                  | Closes lips (purses, protrudes)         | maxilla and mandible                  | lips                                 |
 | ***zygomaticus major and minor***       | Raises corners of mouth (smile)         | zygomatic bone                        | skin and muscle at corner of mouth   |
-| ***buccinator***                        | Compress cheeks (whistling, sucking)    | alveolar processes of mandible and maxilla | ***orbicularis oris***                     |
-| frontalis                          | Raises eyebrows                          | epicranial aponeurosis               | skin of eyebrows                     |
+| ***buccinator***                        | Compress cheeks (whistling, sucking)    | alveolar processes of mandible and maxilla | angle of the mouth                   |
+| ***frontalis ***                        | Raises eyebrows                          | epicranial aponeurosis               | skin of eyebrows                     |
 | ***risorius***                           | Draws corner of mouth to side           | fascia near TMJ                       | skin at angle of mouth               |
 | ***depressor labii inferioris***         | Depresses lower lip                      | medial mandible                       | skin of lower lip                    |
 | ***corrugator supercilii***             | Pulls eyebrows down and medially         | frontal bone near nasal bone          | skin of eyebrow                      |
