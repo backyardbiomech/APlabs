@@ -1,8 +1,6 @@
 <p style='text-align: center;'> <h1>BIOL 206 Human Anatomy & Physiology I </h1> </p>
 <p style='text-align: center;'> <h2> Special Senses</h2> </p>
 
-Each bulleted item below is a required item. Find each term in your book, in Visible Body, or online. You should be able to define and use each term. You should also know the main function of each brain area.
-
 Each item in the tables below is a required item. Find each term in your book, in PAL, or online. For each item below, you should be able to 
 
 1. identify the structure in a model or drawing
