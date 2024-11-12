@@ -1,7 +1,7 @@
 <p style='text-align: center;'> <h1>BIOL 206 Human Anatomy & Physiology I </h1> </p>
 <p style='text-align: center;'> <h2> Brain, Spinal Cord, and Cranial Nerves</h2> </p>
 
-Each bulleted item below is a required item. Find each term in your book, in Visible Body, or online. You should be able to define and use each term. You should also know the main function of each brain area.
+Each bulleted item below is a required item. Find each term in your book, in PAL, or online. You should be able to define and use each term. You should also know the main function of each brain area.
 
 For each cranial nerve, you should be able to:
 
