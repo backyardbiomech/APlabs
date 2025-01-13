@@ -1,4 +1,4 @@
-# Lab 9: Kidney and Urine Analysis
+# Lab 11: Kidney and Urine Analysis
 
 ## Preparation for lab
 
