@@ -1,4 +1,4 @@
-# Lab 4: Immune System (ELISA)
+# Lab 6: Immune System (ELISA)
 
 ## Preparation for lab
 
