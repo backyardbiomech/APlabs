@@ -1,4 +1,4 @@
-# Lab 2: The Heart - Anatomy
+# Lab 1: The Heart - Anatomy
 
 ## Preparation for lab
 
