@@ -1,4 +1,4 @@
-# Lab 0 - Laboratory Safety
+# Laboratory Safety
 
 1. General Safety Instructions:
    While working in the Science Laboratory you will have certain important responsibilities that do not apply to other classrooms. The materials and equipment that you will be working with if handled improperly can cause injury to yourself or others. Always follow the instructions of your professor or his or her designee. Your professor will give you further safety instructions on a laboratory by laboratory basis.
