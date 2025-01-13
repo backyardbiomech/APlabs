@@ -1,4 +1,4 @@
-# Lab 10: Metabolism - Caloric Budget
+# Lab 8: Metabolism - Caloric Budget
 
 ## Preparation for lab
 
