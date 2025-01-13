@@ -1,4 +1,4 @@
-# Lab 5: Organ Systems (fetal pig dissection)
+# Lab 9: Organ Systems (fetal pig dissection)
 
 ## Preparation for lab
 
