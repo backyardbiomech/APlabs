@@ -1,4 +1,4 @@
-# Lab 3: The Heart - Physiology
+# Lab 2: The Heart - Physiology
 
 ## Preparation for lab
 

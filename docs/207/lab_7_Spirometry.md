@@ -1,4 +1,4 @@
-# Lab 6: Spirometry
+# Lab 7: Spirometry
 
 ## Preparation for lab
 

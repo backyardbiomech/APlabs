@@ -1,4 +1,4 @@
-# Lab 8: Diffusion and Osmosis
+# Lab 5: Diffusion and Osmosis
 
 ## Preparation for lab
 

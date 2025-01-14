@@ -1,4 +1,4 @@
-# Lab 7: Carbohydrate Biochemistry
+# Lab 10: Carbohydrate Biochemistry
 
 ## Preparation for lab
 
