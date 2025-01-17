@@ -11,7 +11,7 @@ You are expected to be able to:
 1. identify every structure in bold
 2. describe the function of every structure
 3. describe the flow of blood through the structures (and other blood vessels in a later lab)
-4. describe the organs or parts of the body where blood is flowing to or from
+4. describe the organs or parts of the body where blood in the structure is flowing to or from
 5. describe whether the blood in any structure is either fully *oxygenated* or partly *deoxygenated* 
 
 ## Safety
