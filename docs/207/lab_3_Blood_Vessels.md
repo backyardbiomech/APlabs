@@ -2,7 +2,7 @@
 
 ## Readings:
 1. Fetal pig dissection guide (notebooks in lab)
-2. Chapters 18.6 and 18.7, including tables 18.4 ([Major Systemic Arteries](https://plus.pearson.com/epub/bronte/BRNT-GRBV993HPV/v8/OPS/xhtml/6ac97060-b46f-11ee-8481-b44934e47c60.xhtml#62d0a7ab3834b367290df4d9208d80ef)) and 18.5 ([Major Systemic Veins](https://plus.pearson.com/epub/bronte/BRNT-GRBV993HPV/v8/OPS/xhtml/6b6f7460-b46f-11ee-801e-b95ed0c6f00e.xhtml#802f8d4778e3fe4956ef2d5d754f74be))
+2. Chapters 18.6 and 18.7, including tables 18.4 (Major Systemic Arteries) and 18.5 (Major Systemic Veins))
 
 ## Objectives:
 1. Identify the vessels and structures listed below, in a large pig heart, dissected pig, diagrams (pig or human), or by description

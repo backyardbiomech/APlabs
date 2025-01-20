@@ -1,4 +1,4 @@
-# APlabs
+# A & 56ttgP labs
 
 [BIOL 206 Manual](206/206toc.md)
 
