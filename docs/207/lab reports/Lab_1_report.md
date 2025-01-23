@@ -1,9 +1,8 @@
 # Lab 1: The Heart - Anatomy
 
-Name:___________________
+Name:__________
 
-1. Chambers and Valves: Describe the four chambers of the heart. How do the atrioventricular
-   and semilunar valves function differently in regulating blood flow within the heart?
+1. Chambers and Valves: Describe the four chambers of the heart. How do the atrioventricular and semilunar valves function differently in regulating blood flow within the heart?
 2. Blood Flow Pathway: Trace the pathway of blood through the heart, starting from the vena
    cava and ending at the aorta. Include the roles of each chamber and valve in your
    description.
@@ -14,4 +13,3 @@ Name:___________________
    Explain their significance in providing oxygen and nutrients to the heart muscle.
 5. Electrical Conduction System: Locate and describe the components of the heart's electrical
    conduction system (sinoatrial node, atrioventricular node, bundle of His, and Purkinje fibers).
-   How does this system coordinate the heartbeat?
