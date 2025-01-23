@@ -2,7 +2,7 @@
 
 ## Preparation for lab
 
-To get the most out of this lab you need to be prepared. The basic knowledge needed for this lab is covered in your textbook, Module 17.2: "Heart Anatomy and Blood Flow Pathway". **PAL** (Practice Anatomy Lab) in Mastering also has images of human cadaver hearts, sheep hearts, plastic models, and the 3D interactive models with labels, pronunciations, and descriptions. 
+To get the most out of this lab you need to be prepared. The basic knowledge needed for this lab is covered in Amerman "Human Anatomy and Physiology" in Chapter 17.2"Heart Anatomy and Blood Flow Pathway". **PAL** (Practice Anatomy Lab) in Mastering also has images of human cadaver hearts, sheep hearts, plastic models, and the 3D interactive models with labels, pronunciations, and descriptions. 
 
 Find the **bolded** terms below in the book and/or PAL. Take a few notes about each structure. 
 
