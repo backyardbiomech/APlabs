@@ -2,7 +2,7 @@
 
 ## Preparation for lab
 
-To get the most out of this lab you need to be prepared. The basic knowledge needed for this lab is covered in "OpenStax Anatomy and Physiology" in Chapter 22.3 "The Process of Breathing".
+To get the most out of this lab you need to be prepared. The basic knowledge needed for this lab is covered in Amerman "Human Anatomy and Physiology" in Chapter 21.3 "Pulmonary Ventilation".
 
 ## Introduction
 
