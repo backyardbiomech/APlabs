@@ -2,7 +2,7 @@
 
 ## Preparation for lab
 
-To get the most out of this lab you need to be prepared. The basic knowledge needed for this lab is covered in Amerman "Anatomy and Physiology" in Chapter 17.3 "Cardiac Muscle Tissue Anatomy and Electrophysiology".
+To get the most out of this lab you need to be prepared. The basic knowledge needed for this lab is covered in Amerman "Human Anatomy and Physiology" in Chapter 17.3 "Cardiac Muscle Tissue Anatomy and Electrophysiology".
 
 ## Introduction
 
