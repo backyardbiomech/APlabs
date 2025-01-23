@@ -2,7 +2,7 @@
 
 ## Preparation for lab
 
-To get the most out of this lab you need to be prepared. The basic knowledge needed for this lab is covered in "OpenStax Anatomy and Physiology" in Chapter 18 "The Cardiovascular System: Blood".
+To get the most out of this lab you need to be prepared. The basic knowledge needed for this lab is covered in Amerman "Human Anatomy and Physiology" in Chapter 19 "Blood".
 
 ## Introduction
 
