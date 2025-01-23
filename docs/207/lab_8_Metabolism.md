@@ -2,7 +2,7 @@
 
 ## Preparation for lab
 
-To get the most out of this lab you need to be prepared. The basic knowledge needed for this lab is covered in "OpenStax Anatomy and Physiology" in Chapter 24.6 "Energy and Heat Balance" and 24.7 "Nutrition and Diet".
+To get the most out of this lab you need to be prepared. The basic knowledge needed for this lab is covered in Amerman "Human Anatomy and Physiology" in Chapter 23.7 "Nutrition and Body Mass".
 
 ## Introduction
 
