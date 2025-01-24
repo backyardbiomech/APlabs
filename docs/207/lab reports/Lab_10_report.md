@@ -1,5 +1,7 @@
 # Lab 10: Kidney and Urine Analysis
 
+Name: __________
+
 1. Record results of the URS-10 test strip and compare to the expected results:
 
    | test             | expected result | your result |

@@ -1,5 +1,7 @@
 # Lab 9: Carbohydrate Biochemistry
 
+Name: __________
+
 1. Results of the Iodine test:
 
    | Test Tube # | Color | Is starch present? |

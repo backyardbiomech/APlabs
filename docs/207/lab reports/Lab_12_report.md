@@ -1,5 +1,7 @@
 # Lab 12: Reproduction
 
+Name: __________
+
 1. Hormonal Regulation: Name key hormones in the regulation of the menstrual cycle. How do
    these hormones interact to regulate ovulation and menstruation?
 2. Hormonal Functions: Identify and describe the primary hormones produced by the testes.
