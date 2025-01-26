@@ -19,7 +19,7 @@ The PowerLab system contains the necessary amplifier and filter as well as a A/D
 ### Navigating LabChart
 
 LabChart is the software that allows you to control the PowerLab unit and display the acquired data. To effectively use the LabChart system you’ll need to learn how to use the software.  
-DIRECTIONS: Please follow the Student Quick Reference Guide which can be downloaded here: https://www.adinstruments.com/support/downloads/student-quick-reference-guide
+DIRECTIONS: Please follow the [Student Quick Reference Guide](https://www.adinstruments.com/support/downloads/student-quick-reference-guide)
 
 ## Recording an ECG
 
