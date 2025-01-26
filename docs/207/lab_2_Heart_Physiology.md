@@ -29,7 +29,7 @@ The simplest form of ECG uses 4 electrodes (one each at wrists and ankles) to me
 
 ![](.\figures\EKG_leads.png)
 
-The 12 leads and directions from which an ECG meassures the electrical activity of the heart. Lead I, II, and III are the limb leads and are present in the simplest ECG. The augmented limb leads aVF, aVL, and aVR are calculated. A 12-lead ECG additionally records the red vectors. (Source: Wikipedia)
+The 12 leads and directions from which an ECG measures the electrical activity of the heart. Lead I, II, and III are the limb leads and are present in the simplest ECG. The augmented limb leads aVF, aVL, and aVR are calculated. A 12-lead ECG additionally records the red vectors. (Source: Wikipedia)
 
 From these three leads, 3 additional leads can be calculated: the three *augmented limb leads* traditionally labeled aVR, aVL, and aVF (augmented right, left, and foot). But even looking at the heart from 6 angles might not be enough to diagnose a specific problem. A cardiologist might add up to 6 additional electrodes (traditionally labeled V₁ through V₆) to bring the total to 10 electrodes and 12 different perspectives, an arrangement that is called the 12-lead EKG.
 
@@ -53,15 +53,9 @@ A "bad" ECG lacks those things. The three most common errors are inverted or dif
 **For each table**
 
 - laptop
-
 - AD Instruments PowerLab
-
 - one ECG lead
-
 - fresh stick-on electrodes
-
 - gel
-
 - kinesiology tape
-
 - copy of  Data Report Sheet
