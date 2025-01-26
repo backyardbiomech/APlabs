@@ -4,9 +4,11 @@
 
 To get the most out of this lab you need to be prepared. The basic knowledge needed for this lab is covered in Amerman "Human Anatomy and Physiology" in Chapter 17.3 "Cardiac Muscle Tissue Anatomy and Electrophysiology".
 
+In addition to reading, you should review this [basic video on EKG physiology from your book's publisher](https://mediaplayer.pearsoncmg.com/assets/V1kYPD_O_9iP5HtiqJnI_fPWbzLFOsbT).
+
 ## Introduction
 
-Electrocardiography (ECG or EKG) records the summated electrical activity of the heart muscle and enables us to diagnose may heart diseases, i.e. arrhythmia (irregular heartbeats), infarction (blocked coronary blood vessels), hyperkalemia (elevated levels of potassium), and many more. Plotting the electrical activity over time results in a characteristic waveform consisting of a P-wave, QRS-complex and T-wave. Variations in this patter - e.g. the lack of a P-wave - indicate pathological condition - e.g. a problem with the heart’s SA-node pace maker.
+Electrocardiography (ECG or EKG) records the summated electrical activity of the heart muscle and enables us to diagnose may heart diseases, i.e. arrhythmia (irregular heartbeats), infarction (blocked coronary blood vessels), hyperkalemia (elevated levels of potassium), and many more. Plotting the electrical activity over time results in a characteristic waveform consisting of a P-wave, QRS-complex and T-wave. Variations in this pattern indicate pathological condition. For example, the lack of a P-wave indicates a problem with the heart’s SA-node pace maker.
 
 ### How the EKG works and what the PowerLab Data Acquisition Unit does
 
