@@ -38,7 +38,7 @@ DIRECTIONS: Please follow the [Student Quick Reference Guide](https://cdn.adinst
 
 The simplest form of ECG uses 4 electrodes (one each at wrists and ankles) to measure the electric field across the heart from 3 different directions or ’leads’. These 3 directions are called the *limb leads* and they are traditionally labeled I, II, and III (see figure).
 
-![](.\figures\EKG_leads.png)
+![](./figures/EKG_leads.png)
 
 The 12 leads and directions from which an ECG measures the electrical activity of the heart. Lead I, II, and III are the limb leads and are present in the simplest ECG. The augmented limb leads aVF, aVL, and aVR are calculated. A 12-lead ECG additionally records the red vectors. (Source: Wikipedia)
 
@@ -53,7 +53,7 @@ DIRECTIONS: For this part lab we’ll follow the LabChart Human Physiology lesso
 
 A good ECG looks something like the graph below. Notice that the baseline is mostly level, and there are regularly spaced peaks arising from that baseline. Notice the P-waves, the QRS complex, and the T-waves. Notice that other than those waves, line is generally smooth. This is what the ECG should look like in the calibration step.
 
-![](.\figures\ECG_new.png)
+![](./figures/ECG_new.png)
 
 Example of a good ECG trace recorded in lab.
 
