@@ -54,7 +54,10 @@ and veins have different names!
 
 - *pulmonary v., a.*
 - *inferior vena cava and superior vena cava*
-- *aorta**– aortic arch, thoracic aorta, abdominal aorta*
+- *aorta* 
+  - *aortic arch*
+  - *thoracic aorta*
+  - *abdominal aorta*
 - *coronary v., a.*
 - *brachiocephalic a.*
 - *left and right common carotid .a*
