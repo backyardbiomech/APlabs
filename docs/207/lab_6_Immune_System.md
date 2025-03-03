@@ -2,7 +2,7 @@
 
 ## Preparation for lab
 
-To get the most out of this lab you need to be prepared. The basic knowledge needed for this lab is covered on this website: https://www.immunology.org/public-information/bitesized-immunology/experimental-techniques/enzyme-linked-immunosorbent-assay
+To get the most out of this lab you need to be prepared. The basic knowledge needed for this lab is covered on [this website](https://www.immunology.org/public-information/bitesized-immunology/experimental-techniques/enzyme-linked-immunosorbent-assay).
 
 ## Introduction
 
