@@ -21,19 +21,10 @@ valves.
 
 ## Food for Thought
 
-1. Many times, the best way to identify a vessel is to look at the structures it attaches to on
-   either end (most are named for the organ or region of the body they serve).
-
+1. Many times, the best way to identify a vessel is to look at the structures it attaches to on either end (most are named for the organ or region of the body they serve).
 2. Practice drawing the flow of blood as a road map, with labels.
-3. You may not be able to clearly identify all of the vessels in your pig. If you can’t find them in
-your pig, ask your classmates if they can find it. You are still responsible for knowing where
-the vessel is, and what it connects to even if you can’t find it!
-4. Note one major difference between human and pig circulation near the heart: In the pig, two
-branches come off the aortic arch: the *brachiocephalic a.* and the left *subclavian a.*. The
-*brachiocephalic* give rise to both the left and right *common carotid a.*’s. In humans, the left
-*common carotid a.* arises directly from the aortic arch, so three arteries can be seen on the
-arch, beginning closest to the heart: the *brachiocephalic a.*, left *common carotid a.*, and *left*
-*subclavian a.*
+3. You may not be able to clearly identify all of the vessels in your pig. If you can’t find them in your pig, ask your classmates if they can find it. You are still responsible for knowing where the vessel is, and what it connects to even if you can’t find it!
+4. Note one major difference between human and pig circulation near the heart: In the pig, two branches come off the aortic arch: the *brachiocephalic a.* and the left *subclavian a.*. The *brachiocephalic* give rise to both the left and right *common carotid a.*’s. In humans, the left *common carotid a.* arises directly from the aortic arch, so three arteries can be seen on the arch, beginning closest to the heart: the *brachiocephalic a.*, left *common carotid a.*, and *left* *subclavian a.*
 
 ## Example question:
 
@@ -52,40 +43,43 @@ and veins have different names!
 
 ### Major organs and body regions
 
-• appendages (arm, leg)
-• stomach
-• spleen
-• liver
-• intestines
-• kidneys (renal)
+- appendages (arm, leg)
+- stomach
+- spleen
+- liver
+- intestines
+- kidneys (renal)
 
 ### Vessels in the thoracic cavity or feeding the arms or head
 
-*• pulmonary v., a.*
-*• inferior vena cava and superior vena cava*
-*• aorta**– aortic arch, thoracic aorta, abdominal aorta*
-*• coronary v., a.*
-*• brachiocephalic a.*
-*• left and right common carotid .a*
-*• left and right subclavian v., a.*
-*• vertebral v., a.*
-*• internal thoracic v., a.*
-*• left and right internal jugular v.*
-*• left and right external jugular v.*
-*• brachial v., a.*
-*• radial a.*
+- *pulmonary v., a.*
+- *inferior vena cava and superior vena cava*
+- *aorta* 
+  - *aortic arch*
+  - *thoracic aorta*
+  - *abdominal aorta*
+- *coronary v., a.*
+- *brachiocephalic a.*
+- *left and right common carotid .a*
+- *left and right subclavian v., a.*
+- *vertebral v., a.*
+- *internal thoracic v., a.*
+- *left and right internal jugular v.*
+- *left and right external jugular v.*
+- *brachial v., a.*
+- *radial a.*
 
 ### Vessels in the abdomen or legs
 
-*• umbilical v., a.*
-*• renal v., a.*
-*• common iliac a.*
-*• external iliac a., v.*
-*• femoral a.*
-*• celiac trunk a. (to liver, spleen, stomach, duodenum)*
-*• superior and inferior mesenteric a.’s (to small and large intestines)*
-*• hepatic portal veins (intestines to liver)*
-*• hepatic v. (liver to inferior vena cava)*
+- *umbilical v., a.*
+- *renal v., a.*
+- *common iliac a.*
+- *external iliac a., v.*
+- *femoral a.*
+- *celiac trunk a.* (to liver, spleen, stomach, duodenum)
+- *superior and inferior mesenteric a.*’s (to small and large intestines)
+- *hepatic portal veins* (intestines to liver)
+- *hepatic v.* (liver to inferior vena cava)
 
 
 
@@ -99,13 +93,9 @@ and veins have different names!
 
 - fetal pig
 
-  
-
 
 **For the lab**
 
 - disposal bags
 
 
-
-<div style="page-break-after: always"></div>
