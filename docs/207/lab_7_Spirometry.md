@@ -107,9 +107,14 @@ You know how much air reaches your lungś alveoli each minute (PV), but how much
   
 
 Above table shows that the air that you inhale is 20.9% oxygen. When you exhale that same air, only 15.8% of your breath is oxygen. On the other hand, 0.04% of the air you inhale is carbon dioxide, and when you exhale that same air, 4.0% of it is carbon dioxide The human body does not consume or produce nitrogen, so the percent of the air you inhale vs. exhale that is nitrogen remains unchanged at 79.0%.  
-You are locked in an airtight room that is 8 ft by 8 ft by 8 ft, i.e. has a volume of about 14’500 liter. Wow much oxygen is it this room?
 
-Using the information in the table and your value for PV, how long would it take you to consume all the oxygen in the room (hint: first calculate how how much oxygen you *consume* with each breath, then calculate how much that is per minute and then divide the oxygen in the room by that number...). Carbon-dioxide is a major greenhouse gas - and you produce a little bit of it with every breath. How much? Using the information in the table and your value for PV to calculate how much CO₂ you produce through breathing every minute. Given an average life expectancy of 78 years , how many tons of carbon dioxide do you exhale over your life time? (hint: 1 liter CO₂ gas equals 0.0000018322003083900225 metric tons.... ).
+Using the information in the table and your value for PV, how many mL of oxygen do you absorb per breath? Carbon-dioxide is a major greenhouse gas - and you produce a little bit of it with every breath. How much? Using the information in the table and your value for PV to calculate how much CO₂ you produce through breathing every minute.
+
+A few last things that will help for the lab assignment. 
+
++ You absorb some amount of oxygen in mL per breath. If you know your breathing rate, you know how much oxygen you absorb per minute. 
+
+ +  1 liter CO₂ gas equals 0.0000018322003083900225 metric tons at room temperature.
 
 ## Setup & supplies
 
