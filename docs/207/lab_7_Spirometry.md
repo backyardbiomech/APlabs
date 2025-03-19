@@ -34,11 +34,11 @@ The subject using the spirometer should stand facing away from the gauge, holdin
 
 - Vital capacity (VC): Inspire maximally. Now, expire forcibly and completely into the spirometer.
 
-| Subject | TV   | IRV  | ERV  | VC   | TV+IRV+ERV |
-| ------- | ---- | ---- | ---- | ---- | ---------- |
-|         |      |      |      |      |            |
-|         |      |      |      |      |            |
-|         |      |      |      |      |            |
+| Subject | TV   | IC | IRV  | ERV  | VC   | TV+IRV+ERV |
+| ------- | ---- | ---- | ----|  ---- | ---- | ---------- |
+|         |      |      |      |      |            |   |
+|         |      |      |      |      |            |   |
+|         |      |      |      |      |            |   |
 
 ## Estimating Vital Capacity
 
