@@ -14,7 +14,7 @@ The most important respiratory volumes that are of interest to physiologists and
 
 - Tidal Volume (TV)
 
-- Inspiratory reserve volume (IRV)
+- Inspiratory capacity (IC)
 
 - Expiratory reserve volume (ERV)
 
@@ -28,7 +28,7 @@ The subject using the spirometer should stand facing away from the gauge, holdin
 
 - Tidal volume (TV): Inspire normally, then expire normally into the spirometer. The number on the gauge is your TV.
 
-- Inspiratory reserve volume (IRV): Inspire maximally. Expire into the spirometer normally (do not force any air out). Record the volume shown on the gauge. This volume includes your TV, so subtract TV from this volume to get IRV.
+- Inspiratory capacity (IC): Inspire maximally. Expire into the spirometer normally (do not force any air out). Record the volume shown on the gauge. This volume includes your TV, so subtract TV from this volume to get IRV.  $IC - TV = IRV$
 
 - Expiratory reserve volume (ERV): Expire normally. Now, put the spirometer to your mouth and forcefully and completely expire the air that remains in your lungs. The number on the gauge is your ERV.
 
