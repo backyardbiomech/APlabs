@@ -6,7 +6,7 @@ To get the most out of this lab you need to be prepared. The basic knowledge nee
 
 ## Introduction
 
-In this lab, you will investigate the volume of air that your lungs move as you breathe in and out. You will use a spirometer to directly measure air volume and also estimate lung volume and determine whether quick estimate agree with your direct measurements. By combining those measurements with the number of breaths you take per minute, you will figure out how much air moves in and out of your lungs over time. Finally, you will calculate the volume of oxygen (O₂) that you absorb and the volume of carbon dioxide (CO₂) that you produce. (note: 10 \* 0.1 liter = 10 \* 100ml = 1000ml = 1 liter)
+In this lab, you will investigate the volume of air that your lungs move as you breathe in and out. You will use a spirometer to directly measure air volume and also estimate lung volume and determine whether quick estimate agree with your direct measurements. By combining those measurements with the number of breaths you take per minute, you will figure out how much air moves in and out of your lungs over time. Finally, you will calculate the volume of oxygen (O₂) that you absorb and the volume of carbon dioxide (CO₂) that you produce. (note: 1000 ml = 1 liter, 1 ml = 0.001 liter)
 
 ## Measuring Respiratory Volumes
 
