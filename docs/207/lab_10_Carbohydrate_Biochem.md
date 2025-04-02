@@ -51,7 +51,7 @@ After  the samples have been in the water bath for 20 minutes: Obtain a porcelai
 
 ## Identifying Carbohydrates: Benedict’s Test for Monosaccharides and Reducing Disaccharides
 
-Under suitable conditions chemicals with free aldehyde or ketone groups will transfer electrons to cupric ions (+2) to form cuprous ions (+1). Since all monosaccharides and most disaccharides can do this, they are called *reducing sugars* and their presence can be tested for by using various Copper solutions.
+Under suitable conditions chemicals with free aldehyde or ketone groups will transfer electrons to cupric ions (+2) to form cuprous ions (+1). Since all monosaccharides and most disaccharides can do this, they are called *reducing sugars* and their presence can be tested for by using various Copper solutions, like Benedict's solution. **Benedict's solution is blue in color and will turn green, yellow, or red when a reducing sugar, like glucose, is present.** 
 
 DIRECTIONS: 
 After you tested for starch: discard all but 1mL of the solution from the test tube. Add  **3 mL** of reagent (Benedict’s) to each test tube. Mix well. Place the test tube into a boiling water bath for 3 minutes. Remove and let cool. The formation of a green or orange colored precipitate indicates a positive test. Note your observations in the table.
