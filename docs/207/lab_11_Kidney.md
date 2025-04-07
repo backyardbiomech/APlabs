@@ -2,7 +2,7 @@
 
 ## Preparation for lab
 
-To get the most out of this lab you need to be prepared. The basic knowledge needed for this lab is covered in "OpenStax Anatomy and Physiology" in Chapter 25 "The Urinary System"
+To get the most out of this lab you need to be prepared. The basic knowledge needed for this lab is covered in Chapter 24 "The Urinary System"
 
 ## Introduction
 
