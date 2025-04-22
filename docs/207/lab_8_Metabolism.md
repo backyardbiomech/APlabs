@@ -28,31 +28,31 @@ A subject breathes normally into a O<sub>2</sub> spirometer for 3 minutes with t
 
 DIRECTIONS
 
-1. Pick either subject 1 or 2 and measure the **absorbed** amount of O<sub>2</sub>, the amount by which the curve drifts upwards within the shown 3 minutes.  
+Pick either subject 1 or 2 and measure the **absorbed** amount of O<sub>2</sub>, the amount by which the curve drifts upwards within the shown 3 minutes.  
 
 ​	ending volume O<sub>2</sub> – initial volume O<sub>2</sub> =  _________ liters O<sub>2</sub> absorbed during 3 minute trial
 
-2. Divide the volume of O<sub>2</sub> absorbed by the number of minutes of the trial (3) to get the volume of O<sub>2</sub> absorbed per minute.   
+Divide the volume of O<sub>2</sub> absorbed by the number of minutes of the trial (3) to get the volume of O<sub>2</sub> absorbed per minute.   
 
 ​	_________ liters O<sub>2</sub> absorbed per minute
 
-3. Multiply by 60 minutes per hour to get the amount of O<sub>2</sub> absorbed per hour   
+Multiply by 60 minutes per hour to get the amount of O<sub>2</sub> absorbed per hour   
 
 ​	_________ liters O<sub>2</sub> absorbed per hour
 
-4. Because the amount of O<sub>2</sub> in the air varies depending on temperature and pressure, correct the volume of O<sub>2</sub> absorbed per hour to standard temperature and pressure (STP) by multiplying by a correction factor.  Given room temperature and our altitude, use a correction factor of 0.9.
+Because the amount of O<sub>2</sub> in the air varies depending on temperature and pressure, correct the volume of O<sub>2</sub> absorbed per hour to standard temperature and pressure (STP) by multiplying by a correction factor.  Given room temperature and our altitude, use a correction factor of 0.9.
 
 ​	_________ liters O<sub>2</sub> per hour at STP
 
-5. Multiply this number by 4.825 to convert liters of absorbed O<sub>2</sub> per hour to Calories burned per hour.
+Multiply this number by 4.825 to convert liters of absorbed O<sub>2</sub> per hour to Calories burned per hour.
 
 ​	_________ Calories burned per hour
 
-6. Using the subject’s height and weight, determine the subject’s body surface area using the nomogram below. To use a nomogram, find the height on the left scale and the weight on the right scale. Draw a line between those two points and read of the surface area on the middle scale.
+Using the subject’s height and weight, determine the subject’s body surface area using the nomogram below. To use a nomogram, find the height on the left scale and the weight on the right scale. Draw a line between those two points and read of the surface area on the middle scale.
 
 ​	body surface area  =  _________ m<sup>2</sup>
 
-7. Determine BMR by dividing Calories burned per hour by body surface area.
+Determine BMR by dividing Calories burned per hour by body surface area.
 
 ​	BMR =  _________ Calories / hr·m<sup>2</sup>
 
