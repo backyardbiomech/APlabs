@@ -1,5 +1,6 @@
-<p style='text-align: center;'> <h1>BIOL 206 Human Anatomy & Physiology I </h1> </p>
-<p style='text-align: center;'> <h2> Axial Skeleton</h2> </p>
+# BIOL 206 Human Anatomy & Physiology I
+
+## Axial Skeleton
 
 Each listed item below is a required item. Find each term in your book, in Mastering A&P, or online. You should be able to define and use each term.
 
@@ -15,7 +16,7 @@ Each listed item below is a required item. Find each term in your book, in Maste
 | protuberance                          | trochanter        |
 | line                                  |                   |
 
-<h3> The Skull </h3>
+### The Skull
 
 | CRANIAL BONES (8)                     |                   |
 | ------------------------------------- | ------------------------------- |
@@ -62,7 +63,7 @@ Each listed item below is a required item. Find each term in your book, in Maste
 | mandible                              | mandibular ramus (plural: rami) |
 |                                       | mental foramen |
 |                                       | mandibular foramen |
-|                                       | mandibular condyle |      
+|                                       | mandibular condyle |
 |                                       | manibular notch |
 |                                       | coronoid process |
 | maxilla (2)                           | zygomatic process |
@@ -70,7 +71,7 @@ Each listed item below is a required item. Find each term in your book, in Maste
 | inferior nasal concha (2)             |  |
 | vomer                                 | nasal spetum |
 | hyoid bone                            | (technically not skull !)|
-          
+
 | OSSICLES (6)                          |                                 |
 | ------------------------------------- | ------------------------------- |
 | malleus (hammer) | stapes (stirrup) |
@@ -83,15 +84,13 @@ Each listed item below is a required item. Find each term in your book, in Maste
 | mandibular angle > 90 deg             | mandibular angle approx. 90 deg |
 | less prominent mastoid process        | more prominent mastoid process |
 
-
-<h3> The vertebral Column and Thoracic Cage </h3>
+### The Vertebral Column and Thoracic Cage
 
 | REGIONS OF THE VERTEBRAL COLUMN       |                                 |
 | ------------------------------------- | ------------------------------- |
 | cervical (7)                          | thoracic (12) |
 | lumbar (5)                            | sacral (5 fused)|
 | coccygeal (3-5 fused)                 |  |
-
 
 | BONES OF THE VERTEBRAL COLUMN         |                                 |
 | ------------------------------------- | ------------------------------- |
@@ -124,5 +123,3 @@ Each listed item below is a required item. Find each term in your book, in Maste
 || true vs. false rib|
 || floating rib |
 || costal cartilage |
-
-
