@@ -19,6 +19,11 @@ Each listed item below is a required item. Find each term in your book, in Maste
 
 | CRANIAL BONES (8)                     |                   |
 | ------------------------------------- | ------------------------------- |
+| sutures (immovable joints) |  frontal suture             |
+|                                       | coronal suture |
+|                                       | squamous suture |
+|                                       | lambdoid suture |
+|                                       | sagittal suture |
 | frontal                               | glabella |
 |                                       | supraorbital foramen (or notch) |
 |                                       | supraorbital margin |
@@ -32,11 +37,15 @@ Each listed item below is a required item. Find each term in your book, in Maste
 |                                       | mastoid process |
 |                                       | external acoustic meatus |
 |                                       | mandibular fossa |
+|                                       | petrous region |
+|                                       | squamous region |
+|                                       | internal acoustic meatus |
 | sphenoid (2)                          | optic foramen |
 |                                       | lesser wing |
 |                                       | greater wing |
 |                                       | foramen rotundum |
 |                                       | foramen ovale |
+|.                                     | optic canal |
 |                                       | foamen spinosum |
 |                                       | sella turcica |
 |                                       | pterygoid process |
@@ -95,6 +104,8 @@ Each listed item below is a required item. Find each term in your book, in Maste
 ||spinal nerve root|
 ||spinous process|
 ||transverse processarticular processes|
+|atlas | |
+| axis | dens (odontoid process) |
 |sacrum|base|
 ||apex|
 ||sacral canal|
