@@ -14,6 +14,7 @@ Each listed item below is a required item. Find each term in your book, in Maste
 |                       | posterior superior iliac spine (PSIS) |
 |                       | auricular surface |
 |                       | greater sciatic notch |
+|                       | ala (of ilium) |
 | ischium | ischial ramus |
 |                       | ischial tuberosity |
 |                        |lesser sciatic notch|
@@ -49,7 +50,7 @@ Each listed item below is a required item. Find each term in your book, in Maste
 |                     | navicular |
 |                     | cuneiforms (medial, intermediate, lateral) |
 |                     | cuboid |
-| metaarsals | I-V |
+| metatarsals | I-V |
 | phalanges (or digits) | proximal, middle, and distal phalanx (plural = phalanges) |
 |                     | hallux |
 

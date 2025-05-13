@@ -9,9 +9,10 @@ Each listed item below is a required item. Find each term in your book, in Maste
 |  | glenoid cavity |
 |                 | acromion |
 |                 | coracoid process |
-|                 | superior, media, & lateral border |
+|                 | superior, medial, & lateral border |
 |                 | spine |
 |                 | supraspinous fossa |
+|                 | infraspinous fossa |
 |                 | subscapular fossa |
 |                 | superior & inferior angle |
 | clavicle | acrominal end |
@@ -24,9 +25,9 @@ Each listed item below is a required item. Find each term in your book, in Maste
 | humerus | head |
 |            | anatomical neck |
 |            | surgical neck |
-|            | greater tubicle |
-|            | lesser tubicle |
-|            | intertubecular sulcus or groove |
+|            | greater tubercle |
+|            | lesser tubercle |
+|            | intertubecular sulcus (groove) |
 |            | radial groove |
 |            | deltoid tuberosity |
 |  | trochlea                             |
