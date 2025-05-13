@@ -39,7 +39,7 @@ These are parts of the central nervous system, structures associated with it tha
 | - auricle |  - oval window |
 | - external acoustic meatus|  - round window |
 |middle ear|  - cochlea |
-| - tympanum|  - basilar membrane |
+| - tympanic membrane |  - basilar membrane |
 | - incus |  - hair cells |
 | - stapes | - vestibule |
 | - malleus | - semicircular canals |
@@ -63,4 +63,6 @@ These are parts of the central nervous system, structures associated with it tha
 |  - pupillary sphincter           |                          |
 |  - ciliary body (or ciliary muscles) |  |
 |  - suspensory ligaments (or zonule fibers) |  |
-|  - chorid |  |
+|  - choroid |  |
+
+**Also be sure you know the 6 extrinisic eye muscles and their actions (described in [Lab 5](lab_5.md#muscles-that-move-the-eye)]). You will be asked to identify them on a model or drawing.**
