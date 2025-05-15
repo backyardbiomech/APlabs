@@ -74,6 +74,8 @@ Each listed item below is a required item. Find each term in your book, in Maste
 |                                       | cribriform plate |
 |                                       | middle nasal concha |
 
+
+
 | FACIAL BONES (14)                     |               |
 | ------------------------------------- | ------------------------------- |
 | nasal (2)                             | nasal bridge  |
@@ -92,10 +94,14 @@ Each listed item below is a required item. Find each term in your book, in Maste
 | vomer                                 | nasal spetum |
 | hyoid bone                            | (technically not skull !)|
 
+
+
 | OSSICLES (6)                          |                                 |
 | ------------------------------------- | ------------------------------- |
 | malleus (hammer) | stapes (stirrup) |
 | incus (anvil)    |                  |
+
+
 
 | FEMALE SKULL                           | MALE SKULL                     |
 | ------------------------------------- | ------------------------------- |
@@ -104,13 +110,19 @@ Each listed item below is a required item. Find each term in your book, in Maste
 | mandibular angle > 90 deg             | mandibular angle approx. 90 deg |
 | less prominent mastoid process        | more prominent mastoid process |
 
+
+
 ### The Vertebral Column and Thoracic Cage
+
+
 
 | REGIONS OF THE VERTEBRAL COLUMN       |                                 |
 | ------------------------------------- | ------------------------------- |
 | cervical (7)                          | thoracic (12) |
 | lumbar (5)                            | sacral (5 fused)|
 | coccygeal (3-5 fused)                 |  |
+
+
 
 | BONES OF THE VERTEBRAL COLUMN         |                                 |
 | ------------------------------------- | ------------------------------- |
@@ -129,6 +141,8 @@ Each listed item below is a required item. Find each term in your book, in Maste
 ||apex|
 ||sacral canal|
 |coccyx||
+
+
 
 | BONES OF THE THORACIC CAGE            |                                 |
 | ------------------------------------- | ------------------------------- |
