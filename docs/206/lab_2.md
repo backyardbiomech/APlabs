@@ -2,6 +2,26 @@
 
 ## Axial Skeleton
 
+### Learning Objectives
+After completing this section, students should be able to:
+
+1. Describe the human body using directional and regional terms
+1. Define the two major divisions of the skeletal system (axial and appendicular) and list the general bone structures contained within each.
+2. For the bones in the skull: identify, locate in the body, classify by shape and composition (compact vs. spongy), and relate shape to function.
+3. For the bones in the skull: identify bone markings (spines, processes, foramina, etc.) and describe their function (e.g., point of articulation, muscle/tendon attachment, ligament attachment, passageway for nerves and vessels).
+4. Locate the major suture lines of the skull and name the bones associated with each.
+5. Define the paranasal sinuses and identify the location of each.
+6. Name the bones that make up the walls of the orbit and identify the openings associated with the orbit.
+7. Identify the bones and structures that form the nasal septum and nasal conchae, and locate the hyoid bone.
+8. Describe each region of the vertebral column and the number of bones in each region.
+9. Describe the structural features of a typical vertebra.
+10. Identify the region of an isolated vertebra using distinguishing characteristics for vertebrae in each vertebral region.
+11. Define the structure of an intervertebral disc.
+12. List the components that make up the thoracic cage.
+13. Identify the parts of the sternum.
+14. Classify a rib based on its attachments.
+
+
 Each listed item below is a required item. Find each term in your book, in Mastering A&P, or online. You should be able to define and use each term.
 
 | BONE MARKINGS                         |                                 |
