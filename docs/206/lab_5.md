@@ -1,6 +1,16 @@
 <p style='text-align: center;'> <h1>BIOL 206 Human Anatomy & Physiology I </h1> </p>
 <p style='text-align: center;'> <h2> Axial Muscles</h2> </p>
 
+## Student Learning Objectives:
+
+After completing this section, students should be able to:
+1. Describe the human body using directional and regional terms.
+2. Explain how the name of a muscle can help identify its action, appearance, or location.
+3. Define the terms prime mover (or agonist), antagonist, synergist, and fixator.
+4. For a given movement, differentiate specific muscles that function as prime mover, antagonist, synergist, or fixator.
+5. For select muscles of the head, neck, and back: locate them in the body, identify their origins, insertions, and actions, and demonstrate these actions.
+6. For select muscles of the abdominal wall and thorax: locate them in the body, identify their origins, insertions, and actions, and demonstrate these actions.
+
 For each muscle listed below, you are responsible for identifying it on a model or drawing, knowing its origin, insertion, and action. You can find similar tables in your book. The tables below are somewhat (or significantly) simplified from the book. Still, you should find each term in your book, in Mastering A&P, or online.
 
 ### Muscles of facial expression (do not cross a joint)
