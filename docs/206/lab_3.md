@@ -1,9 +1,18 @@
 <p style='text-align: center;'> <h1>BIOL 206 Human Anatomy & Physiology I </h1> </p>
 <p style='text-align: center;'> <h2> Upper Appendicular Skeleton</h2> </p>
 
+## Student Learning Objectives:
+After completing this section, students should be able to:
+
+1. Describe the human body using directional and regional terms.
+2. List the bones that form the pectoral girdle.
+3. List the functions of the pectoral girdle.
+4. For the bones in the pectoral girdle: identify, locate in the body, classify by shape and composition (compact vs. spongy), and relate shape to function.
+5. For the bones in the pectoral girdle: identify bone markings (spines, processes, foramina, etc.) and describe their function (e.g., point of articulation, muscle/tendon attachment, ligament attachment, passageway for nerves and vessels).
+
 Each listed item below is a required item. Find each term in your book, in Mastering A&P, or online. You should be able to define and use each term.
 
-| PECTORAL GIRDLE (2 x 2) |                                 |
+| PECTORAL GIRDLE |                                 |
 | ------------------------------------- | ------------------------------- |
 | scapula | body |
 |  | glenoid cavity |
@@ -20,7 +29,7 @@ Each listed item below is a required item. Find each term in your book, in Maste
 | | conoid tubercle |
 | | shaft |
 
-| UPPER LIMB (2 x 30) |                   |
+| UPPER LIMB  |                   |
 | ------------------------------------- | ------------------------------- |
 | humerus | head |
 |            | anatomical neck |
