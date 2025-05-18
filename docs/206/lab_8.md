@@ -1,6 +1,22 @@
 <p style='text-align: center;'> <h1>BIOL 206 Human Anatomy & Physiology I </h1> </p>
 <p style='text-align: center;'> <h2> Brain, Spinal Cord, and Cranial Nerves</h2> </p>
 
+## Student Learning Objectives:
+
+After completing this section, students should be able to:
+1. Distinguish between the posterior (dorsal) and the anterior (ventral) body cavities, identifying their subdivisions and representative organs found in each.
+2. Describe the major functions of the nervous system.
+3. List the parts of the nervous system that constitute the central nervous system (CNS) and those that constitute the peripheral nervous system (PNS).
+4. Correlate functions with each major area of the adult brain.
+5. Describe the orientation of the brain relative to bones of the skull.
+6. Identify the five lobes of the cerebral cortex and describe how the motor and sensory functions of the cerebrum are distributed among the lobes.
+7. Explain the concept of cerebral hemispheric specialization and the role of the corpus callosum in connecting the two halves of the cerebrum.
+8. Describe the gross anatomy of the spinal cord and spinal nerves and specify their location relative to the anatomy of the skeletal system.
+9. Identify specific anatomical features seen in a cross sectional view of the spinal cord.
+10. Contrast the relative position of gray matter and white matter in the spinal cord with the corresponding arrangement of gray and white matter in the brain.
+11. Identify the meninges and describe their functional relationship to the brain and cranial bones.
+12. Describe the concept of dermatomes and explain why they are clinically significant.
+
 Each bulleted item below is a required item. Find each term in your book, in PAL, or online. You should be able to define and use each term. You should also know the main function of each brain area.
 
 For each cranial nerve, you should be able to:

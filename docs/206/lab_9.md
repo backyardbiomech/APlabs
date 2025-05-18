@@ -1,6 +1,26 @@
 <p style='text-align: center;'> <h1>BIOL 206 Human Anatomy & Physiology I </h1> </p>
 <p style='text-align: center;'> <h2> Special Senses</h2> </p>
 
+## Student Learning Objectives:
+
+After completing this section, students should be able to:
+
+1. Identify the accessory eye structures, the tunics, the optical components, and the neural components of the eye.
+2. Describe the functions of the accessory structures of the eye.
+3. Trace the path of light as it passes through the eye to the retina and the path of nerve impulses from the retina to various parts of the brain.
+4. Describe the structure of the retina and the cells that compose it.
+5. Relate changes in the anatomy of the eye to changes in vision.
+6. Identify the location of olfactory receptors.
+7. Describe the path of nerve impulses from the olfactory receptors to various parts of the brain.
+8. Identify the location and structure of taste buds.
+9. Describe the path of nerve impulses from the gustatory receptors to various parts of the brain.
+10. Identify the hearing structures of the outer, middle, and inner ear.
+11. Describe how the various structures of the outer, middle, and inner ear function in hearing.
+12. Describe the sound conduction pathway from the auricle to the fluids of the inner ear and the path of nerve impulses from the spiral organ to various parts of the brain.
+13. Describe the structure of the maculae and their function in static equilibrium.
+14. Describe the structure of the crista ampullaris and its function in dynamic equilibrium.
+
+
 Each item in the tables below is a required item. Find each term in your book, in PAL, or online. For each item below, you should be able to 
 
 1. identify the structure in a model or drawing
