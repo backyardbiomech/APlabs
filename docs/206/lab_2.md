@@ -67,7 +67,7 @@ Each category is divided into 3 groups:
 |                                   | Hyoid bone                              | Paranasal sinuses (4)                  |
 | **Skull sutures**              | **Multi-bone features**                |   • Frontal, Ethmoid, Sphenoid, Maxillary |
 |   • *Coronal*              |   • *Zygomatic arch*                   | Orbit of eye (6 bones)                 |
-|   • *Sagittal*             |   • *Nasal septum*                     |   • o	Orbital surfaces of the frontal, maxilla, sphenoid, ethmoid, zygomatic, and lacrimal bones                         |
+|   • *Sagittal*             |   • *Nasal septum*                     |   • Orbital surfaces of the frontal, maxilla, sphenoid, ethmoid, zygomatic, and lacrimal bones                         |
 |   • *Squamous*             |   • *Hard palate*                      |                             |
 |   • *Lambdoidal*           |                                        |                            |
 
