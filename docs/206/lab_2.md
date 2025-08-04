@@ -51,7 +51,7 @@ Each category is divided into 3 groups:
 |   • *Styloid Process*      |   • *Sella turcica*                   | Palatine bone                           |
 |   • *External auditory meatus* | Ethmoid bone                     |   • *Horizontal plate*                 |
 | Occipital bone             |   • *Crista galli*                    |   • *Perpendicular plate*              |
-|   • *Foramen Magnum*       |   • *Cribriform plate*                | Skull holes                             |
+|   • *Foramen Magnum*       |   • *Cribriform plate*                | **Holes in the skull**                             |
 |   • *Occipital Condyles*   |   • *Perpendicular plate*             |   • *Carotid canal*                    |
 | Nasal bones (2)            | Mandible                               |   • *Foramen lacerum*                  |
 | Zygomatic bones (2)        |   • *Body*                            |   • *Foramen ovale*                    |
@@ -63,16 +63,16 @@ Each category is divided into 3 groups:
 | Mandible                   | Inferior nasal concha (2)              |   • *Mental foramen*                   |
 | Inferior nasal concha (2)  | Vomer                                  |   • *Optic canal*                      |
 | Vomer                      | Ear ossicles (3)                        |   • *Superior orbital fissure*         |
-| Ear ossicles (3)           |   • *Malleus, Incus, Stapes*          |                                         |
+| Ear ossicles (3)           |   • Malleus, Incus, Stapes          |  **Additional Features**                                       |
 | Hyoid bone                 | Hyoid bone                              | Paranasal sinuses (4)                  |
-| Skull sutures              | Additional features                     |   • *Frontal, Ethmoid, Sphenoid, Maxillary* |
+| **Skull sutures**              | **Multi-bone features**                |   • Frontal, Ethmoid, Sphenoid, Maxillary |
 |   • *Coronal*              |   • *Zygomatic arch*                   | Orbit of eye (6 bones)                 |
-|   • *Sagittal*             |   • *Nasal septum*                     |   • *Frontal*                          |
-|   • *Squamous*             |   • *Hard palate*                      |   • *Maxilla*                          |
-|   • *Lambdoidal*           |                                        |   • *Sphenoid*                         |
-|                            |                                        |   • *Ethmoid*                          |
-|                            |                                        |   • *Zygomatic*                        |
-|                            |                                        |   • *Lacrimal*                         |
+|   • *Sagittal*             |   • *Nasal septum*                     |   • Frontal                         |
+|   • *Squamous*             |   • *Hard palate*                      |   • Maxilla                          |
+|   • *Lambdoidal*           |                                        |   • Sphenoid                         |
+|                            |                                        |   • Ethmoid                          |
+|                            |                                        |   • Zygomatic                        |
+|                            |                                        |   • Lacrimal                         |
 
 
 ### Learning Objectives
