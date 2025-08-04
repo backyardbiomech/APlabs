@@ -32,6 +32,7 @@ You will have successfully completed the lab when you can identify every bone an
 
 > **EVERYTHING on the list is fair game for the practical exam! 
 Consider the entire list your study guide.**
+
 <span style="color: red;">Note: **Bones may NOT be removed from lab**. </span> Any student removing bones from lab will be prosecuted!  Instead, please study the bones available in the "Bone Room" in the library.
 
 Each category is divided into 3 groups:
@@ -44,34 +45,34 @@ Each category is divided into 3 groups:
 | Essential                  | Advanced                              | Mastery                                |
 |----------------------------|----------------------------------------|-----------------------------------------|
 | Frontal bone               | Frontal                                | Occipital bone                          |
-| Parietal bones (2)         | &nbsp;&nbsp;&nbsp;*Glabella*           | &nbsp;&nbsp;&nbsp;*Nuchal lines*        |
-| Temporal bones (2)         | &nbsp;&nbsp;&nbsp;*Supra-orbital notch*| Sphenoid bone                           |
-| &nbsp;&nbsp;&nbsp;*Mastoid Process*     | Sphenoid bone                         | &nbsp;&nbsp;&nbsp;*Pterygoid processes* |
-| &nbsp;&nbsp;&nbsp;*Styloid Process*     | &nbsp;&nbsp;&nbsp;*Sella turcica*      | Palatine bone                           |
-| &nbsp;&nbsp;&nbsp;*External auditory meatus* | Ethmoid bone                     | &nbsp;&nbsp;&nbsp;*Horizontal plate*    |
-| Occipital bone             | &nbsp;&nbsp;&nbsp;*Crista galli*       | &nbsp;&nbsp;&nbsp;*Perpendicular plate* |
-| &nbsp;&nbsp;&nbsp;*Foramen Magnum*      | &nbsp;&nbsp;&nbsp;*Cribriform plate*   | Skull holes                             |
-| &nbsp;&nbsp;&nbsp;*Occipital Condyles*  | &nbsp;&nbsp;&nbsp;*Perpendicular plate*| &nbsp;&nbsp;&nbsp;*Carotid canal*       |
-| Nasal bones (2)            | Mandible                               | &nbsp;&nbsp;&nbsp;*Foramen lacerum*     |
-| Zygomatic bones (2)        | &nbsp;&nbsp;&nbsp;*Body*               | &nbsp;&nbsp;&nbsp;*Foramen ovale*       |
-| Sphenoid bone              | &nbsp;&nbsp;&nbsp;*Ramus*              | &nbsp;&nbsp;&nbsp;*Foramen spinosum*    |
-| Ethmoid bone               | &nbsp;&nbsp;&nbsp;*Angle*              | &nbsp;&nbsp;&nbsp;*Hypoglossal canal*   |
-| Lacrimal bones (2)         | &nbsp;&nbsp;&nbsp;*Mandibular condyle* | &nbsp;&nbsp;&nbsp;*Internal auditory meatus* |
-| Maxilla                    | &nbsp;&nbsp;&nbsp;*Coronoid process*   | &nbsp;&nbsp;&nbsp;*Jugular foramen*     |
-| Palatine bone              | &nbsp;&nbsp;&nbsp;*Alveolar process*   | &nbsp;&nbsp;&nbsp;*Mandibular canal*    |
-| Mandible                   | Inferior nasal concha (2)              | &nbsp;&nbsp;&nbsp;*Mental foramen*      |
-| Inferior nasal concha (2)  | Vomer                                  | &nbsp;&nbsp;&nbsp;*Optic canal*         |
-| Vomer                      | Ear ossicles (3)                        | &nbsp;&nbsp;&nbsp;*Superior orbital fissure* |
-| Ear ossicles (3)           | &nbsp;&nbsp;&nbsp;*Malleus, Incus, Stapes* |                                    |
-| Hyoid bone                 | Hyoid bone                              | Paranasal sinuses (4)                   |
-| Skull sutures              | Additional features                     | &nbsp;&nbsp;&nbsp;*Frontal, Ethmoid, Sphenoid, Maxillary* |
-| &nbsp;&nbsp;&nbsp;*Coronal*          | &nbsp;&nbsp;&nbsp;*Zygomatic arch*     | Orbit of eye (6 bones)                  |
-| &nbsp;&nbsp;&nbsp;*Sagittal*         | &nbsp;&nbsp;&nbsp;*Nasal septum*       | &nbsp;&nbsp;&nbsp;*Frontal*             |
-| &nbsp;&nbsp;&nbsp;*Squamous*        | &nbsp;&nbsp;&nbsp;*Hard palate*        | &nbsp;&nbsp;&nbsp;*Maxilla*             |
-| &nbsp;&nbsp;&nbsp;*Lambdoidal*      |                                        | &nbsp;&nbsp;&nbsp;*Sphenoid*            |
-|                            |                                        | &nbsp;&nbsp;&nbsp;*Ethmoid*             |
-|                            |                                        | &nbsp;&nbsp;&nbsp;*Zygomatic*           |
-|                            |                                        | &nbsp;&nbsp;&nbsp;*Lacrimal*            |
+| Parietal bones (2)         |   • *Glabella*                         |   • *Nuchal lines*                      |
+| Temporal bones (2)         |   • *Supra-orbital notch*             | Sphenoid bone                           |
+|   • *Mastoid Process*      | Sphenoid bone                          |   • *Pterygoid processes*              |
+|   • *Styloid Process*      |   • *Sella turcica*                   | Palatine bone                           |
+|   • *External auditory meatus* | Ethmoid bone                     |   • *Horizontal plate*                 |
+| Occipital bone             |   • *Crista galli*                    |   • *Perpendicular plate*              |
+|   • *Foramen Magnum*       |   • *Cribriform plate*                | Skull holes                             |
+|   • *Occipital Condyles*   |   • *Perpendicular plate*             |   • *Carotid canal*                    |
+| Nasal bones (2)            | Mandible                               |   • *Foramen lacerum*                  |
+| Zygomatic bones (2)        |   • *Body*                            |   • *Foramen ovale*                    |
+| Sphenoid bone              |   • *Ramus*                           |   • *Foramen spinosum*                 |
+| Ethmoid bone               |   • *Angle*                           |   • *Hypoglossal canal*                |
+| Lacrimal bones (2)         |   • *Mandibular condyle*              |   • *Internal auditory meatus*         |
+| Maxilla                    |   • *Coronoid process*                |   • *Jugular foramen*                  |
+| Palatine bone              |   • *Alveolar process*                |   • *Mandibular canal*                 |
+| Mandible                   | Inferior nasal concha (2)              |   • *Mental foramen*                   |
+| Inferior nasal concha (2)  | Vomer                                  |   • *Optic canal*                      |
+| Vomer                      | Ear ossicles (3)                        |   • *Superior orbital fissure*         |
+| Ear ossicles (3)           |   • *Malleus, Incus, Stapes*          |                                         |
+| Hyoid bone                 | Hyoid bone                              | Paranasal sinuses (4)                  |
+| Skull sutures              | Additional features                     |   • *Frontal, Ethmoid, Sphenoid, Maxillary* |
+|   • *Coronal*              |   • *Zygomatic arch*                   | Orbit of eye (6 bones)                 |
+|   • *Sagittal*             |   • *Nasal septum*                     |   • *Frontal*                          |
+|   • *Squamous*             |   • *Hard palate*                      |   • *Maxilla*                          |
+|   • *Lambdoidal*           |                                        |   • *Sphenoid*                         |
+|                            |                                        |   • *Ethmoid*                          |
+|                            |                                        |   • *Zygomatic*                        |
+|                            |                                        |   • *Lacrimal*                         |
 
 
 ### Learning Objectives
