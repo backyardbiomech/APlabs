@@ -61,18 +61,16 @@ Each category is divided into 3 groups:
 | Maxilla                    |   • *Coronoid process*                |   • *Jugular foramen*                  |
 | Palatine bone              |   • *Alveolar process*                |   • *Mandibular canal*                 |
 | Mandible                   | Inferior nasal concha (2)              |   • *Mental foramen*                   |
-| Inferior nasal concha (2)  | Vomer                                  |   • *Optic canal*                      |
-| Vomer                      | Ear ossicles (3)                        |   • *Superior orbital fissure*         |
-| Ear ossicles (3)           |   • Malleus, Incus, Stapes          |  **Additional Features**                                       |
-| Hyoid bone                 | Hyoid bone                              | Paranasal sinuses (4)                  |
+|                                   | Vomer                                  |   • *Optic canal*                      |
+|                                  | Ear ossicles (3)                        |   • *Superior orbital fissure*         |
+|                                   |   • Malleus, Incus, Stapes          |  **Additional Features**        |
+|                                   | Hyoid bone                              | Paranasal sinuses (4)                  |
 | **Skull sutures**              | **Multi-bone features**                |   • Frontal, Ethmoid, Sphenoid, Maxillary |
 |   • *Coronal*              |   • *Zygomatic arch*                   | Orbit of eye (6 bones)                 |
-|   • *Sagittal*             |   • *Nasal septum*                     |   • Frontal                         |
-|   • *Squamous*             |   • *Hard palate*                      |   • Maxilla                          |
-|   • *Lambdoidal*           |                                        |   • Sphenoid                         |
-|                            |                                        |   • Ethmoid                          |
-|                            |                                        |   • Zygomatic                        |
-|                            |                                        |   • Lacrimal                         |
+|   • *Sagittal*             |   • *Nasal septum*                     |   • o	Orbital surfaces of the frontal, maxilla, sphenoid, ethmoid, zygomatic, and lacrimal bones                         |
+|   • *Squamous*             |   • *Hard palate*                      |                             |
+|   • *Lambdoidal*           |                                        |                            |
+
 
 
 ### Learning Objectives
