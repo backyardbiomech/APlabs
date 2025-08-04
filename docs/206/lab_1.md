@@ -1,6 +1,80 @@
 <p style='text-align: center;'> <h1>BIOL 206 Human Anatomy & Physiology I </h1> </p>
 <p style='text-align: center;'> <h2> Anatomical Terminology</h2> </p>
 
+## PURPOSE
+
+The purpose of this lab is for you to learn and use proper anatomical terminology. This basic information is critical for all health professionals to know because it allows us to talk to one another in very specific and clear terms. 
+
+In this lab, you will describe WHERE in the body certain structures are found in precise language. Imagine a doctor trying to describe where on an organ they have found a tumor so that others can find it during the next test or procedure. How will they tell you EXACTLY where to find it? We’ll learn in this lab. 
+
+## TASK
+
+1.	Listen to the pre-lab lecture and take notes.
+2.	Study the list of anatomical position terms below.
+3.	Use the labels provided to identify directional terms, body planes, and body regions on the skeletons and models found at your lab bench.
+4.	Complete the Lab Report for this lab.
+5.	Review and study before you leave in preparation for the next quiz.
+6.	Clean up your lab space
+
+## CRITERIA FOR SUCCESS
+
+You will have successfully completed the lab when you can answer any question from a lab partner regarding where in the body a specific structure is found. 
+You will be tested on this during the lab practical! You may also be tested on this material during a lab quiz. 
+
+### LAB 1: ANATOMICAL POSITION TERMS
+
+Each category is divided into 3 groups:
++ **Essential terms** will make up about 70% of the practical. Know these to earn a C-
++ **Advanced terms** will be about 20% of the practical. Know these to earn a C- to a B+
++ **Mastery terms** will only be about 10% of the practical. Know these to earn an A. 
+
+#### Directional Terms
+
+| Essential         | Advanced | Mastery |
+|-------------------|----------|---------|
+| Anterior/Ventral  |          |         |
+| Posterior/Dorsal  |          |         |
+| Inferior          |          |         |
+| Superior          |          |         |
+| Medial            |          |         |
+| Lateral           |          |         |
+| Proximal          |          |         |
+| Distal            |          |         |
+| Superficial       |          |         |
+| Deep              |          |         |
+
+#### Body Regions
+
+| Essential     | Advanced | Mastery |
+|---------------|----------|---------|
+| Cephalic      | Axial    |         |
+| Cervical      | Pubic    |         |
+| Thoracic      | Pedal    |         |
+| Abdominal     |          |         |
+| Pelvic        |          |         |
+| Upper limb    |          |         |
+| Lower limb    |          |         |
+
+#### Planes and Sections
+
+| Essential            | Advanced           | Mastery |
+|----------------------|--------------------|---------|
+| Frontal/Coronal      | Median/Midsagittal |         |
+| Sagittal             |                    |         |
+| Transverse/Horizontal|                    |         |
+
+#### Body Cavities & Membranes
+
+| Essential            | Advanced                   | Mastery |
+|----------------------|----------------------------|---------|
+| Cranial              | Parietal serous membrane   |         |
+| Spinal/Vertebral     | Visceral serous membrane   |         |
+| Thoracic             | Serous cavity              |         |
+| Abdominal            |                            |         |
+| Pelvic               |                            |         |
+
+
+
 ## Objectives
 
 After studying this material, students should be able to:
