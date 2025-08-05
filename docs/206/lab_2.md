@@ -48,39 +48,35 @@ Each category is divided into 3 groups:
   <div style="flex: 1;">
     <h3>Essential</h3>
     <ul>
-      <li>Frontal bone</li>
-      <li>Parietal bones (2)</li>
-      <li>Temporal bones (2)
+      <li>frontal bone</li>
+      <li>parietal bones (2)</li>
+      <li>temporal bones (2)
         <ul>
-          <li>*Mastoid Process*</li>
-          <li><em>Styloid Process</em></li>
-          <li><em>External auditory meatus</em></li>
+          <li><em>mastoid process</em></li>
+          <li><em>styloid process</em></li>
+          <li><em>external auditory meatus</em></li>
         </ul>
       </li>
-      <li>Occipital bone
+      <li>occipital bone
         <ul>
-          <li><em>Foramen Magnum</em></li>
-          <li><em>Occipital Condyles</em></li>
+          <li><em>foramen magnum</em></li>
+          <li><em>occipital condyles</em></li>
         </ul>
       </li>
-      <li>Nasal bones (2)</li>
-      <li>Zygomatic bones (2)</li>
-      <li>Sphenoid bone</li>
-      <li>Ethmoid bone</li>
-      <li>Lacrimal bones (2)</li>
-      <li>Maxilla</li>
-      <li>Palatine bone</li>
-      <li>Mandible</li>
-      <li>Inferior nasal concha (2)</li>
-      <li>Vomer</li>
-      <li>Ear ossicles (3)</li>
-      <li>Hyoid bone</li>
-      <li>Skull sutures
+      <li>nasal bones (2)</li>
+      <li>zygomatic bones (2)</li>
+      <li>sphenoid bone</li>
+      <li>ethmoid bone</li>
+      <li>lacrimal bones (2)</li>
+      <li>maxilla</li>
+      <li>palatine bone</li>
+      <li>mandible</li>
+      <li><b>skull sutures</b>
         <ul>
-          <li><em>Coronal</em></li>
-          <li><em>Sagittal</em></li>
-          <li><em>Squamous</em></li>
-          <li><em>Lambdoidal</em></li>
+          <li><em>coronal</em></li>
+          <li><em>sagittal</em></li>
+          <li><em>squamous</em></li>
+          <li><em>lambdoidal</em></li>
         </ul>
       </li>
     </ul>
@@ -90,44 +86,46 @@ Each category is divided into 3 groups:
   <div style="flex: 1;">
     <h3>Advanced</h3>
     <ul>
-      <li>Frontal
+      <li>frontal
         <ul>
-          <li><em>Glabella</em></li>
-          <li><em>Supra-orbital notch</em></li>
+          <li><em>glabella</em></li>
+          <li><em>supra-orbital notch</em></li>
         </ul>
       </li>
-      <li>Sphenoid
+      <li>sphenoid
         <ul>
-          <li><em>Sella turcica</em></li>
+          <li><em>sella turcica</em></li>
         </ul>
       </li>
-      <li>Ethmoid
+      <li>ethmoid
         <ul>
-          <li><em>Crista galli</em></li>
-          <li><em>Cribriform plate</em></li>
-          <li><em>Perpendicular plate</em></li>
+          <li><em>crista galli</em></li>
+          <li><em>cribriform plate</em></li>
+          <li><em>perpendicular plate</em></li>
         </ul>
       </li>
-      <li>Mandible
+      <li>mandible
         <ul>
-          <li><em>Body</em></li>
-          <li><em>Ramus</em></li>
-          <li><em>Angle</em></li>
-          <li><em>Mandibular condyle</em></li>
-          <li><em>Coronoid process</em></li>
-          <li><em>Alveolar process</em></li>
+          <li><em>body</em></li>
+          <li><em>ramus</em></li>
+          <li><em>angle</em></li>
+          <li><em>mandibular condyle</em></li>
+          <li><em>coronoid process</em></li>
+          <li><em>alveolar process</em></li>
         </ul>
       </li>
-      <li>Ear ossicles
+      <li><b>ear ossicles</b>
         <ul>
-          <li><em>Malleus</em>, <em>Incus</em>, <em>Stapes</em></li>
+          <li>malleus</li>
+          <li>incus</li>
+          <li>stapes</li>
         </ul>
       </li>
-      <li>Additional Features
+      <li><b>Additional Features</b>
         <ul>
-          <li><em>Zygomatic arch (2 bones)</em></li>
-          <li><em>Nasal septum</em></li>
-          <li><em>Hard palate (2 bones)</em></li>
+          <li>zygomatic arch (2 bones)</li>
+          <li>nasal septum</li>
+          <li>hard palate (2 bones)</li>
         </ul>
       </li>
     </ul>
@@ -137,50 +135,49 @@ Each category is divided into 3 groups:
   <div style="flex: 1;">
     <h3>Mastery</h3>
     <ul>
-      <li>Occipital
+      <li>occipital bone
         <ul>
-          <li><em>Nuchal lines</em></li>
+          <li><em>nuchal lines</em></li>
         </ul>
       </li>
-      <li>Sphenoid
+      <li>sphenoid
         <ul>
-          <li><em>Pterygoid processes</em></li>
+          <li><em>pterygoid processes</em></li>
         </ul>
       </li>
-      <li>Palatine
+      <li>palatine
         <ul>
-          <li><em>Horizontal plate</em></li>
-          <li><em>Perpendicular plate</em></li>
+          <li><em>horizontal plate</em></li>
+          <li><em>perpendicular plate</em></li>
         </ul>
       </li>
-      <li>Holes in the skull
+      <li><b>Holes in the skull</b>
         <ul>
-          <li><em>Carotid canal</em></li>
-          <li><em>Foramen lacerum</em></li>
-          <li><em>Foramen ovale</em></li>
-          <li><em>Foramen spinosum</em></li>
-          <li><em>Hypoglossal canal</em></li>
-          <li><em>Internal auditory meatus</em></li>
-          <li><em>Jugular foramen</em></li>
-          <li><em>Mandibular canal</em></li>
-          <li><em>Mental foramen</em></li>
-          <li><em>Optic canal</em></li>
-          <li><em>Superior orbital fissure</em></li>
+          <li><em>carotid canal</em></li>
+          <li><em>foramen lacerum</em></li>
+          <li><em>foramen ovale</em></li>
+          <li><em>foramen spinosum</em></li>
+          <li><em>hypoglossal canal</em></li>
+          <li><em>internal auditory meatus</em></li>
+          <li><em>jugular foramen</em></li>
+          <li><em>mandibular canal</em></li>
+          <li><em>mental foramen</em></li>
+          <li><em>optic canal</em></li>
+          <li><em>superior orbital fissure</em></li>
         </ul>
       </li>
-      <li>Paranasal sinuses (4)
+      <li>paranasal sinuses (4)
         <ul>
           <li><em>Frontal, ethmoid, sphenoid, maxillary</em></li>
         </ul>
       </li>
-      <li>Orbit of eye (6 bones)
+      <li>orbit of eye (6 bones)
         <ul>
-          <li><em>Frontal, maxilla, sphenoid, ethmoid, zygomatic, lacrimal</em></li>
+          <li><em>frontal, maxilla, sphenoid, ethmoid, zygomatic, lacrimal</em></li>
         </ul>
       </li>
     </ul>
   </div>
-
 </div>
 
 
