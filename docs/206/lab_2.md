@@ -40,6 +40,36 @@ Each category is divided into 3 groups:
 + **Advanced terms** will be about 20% of the practical. **Know these to earn a C- to a B+**
 + **Mastery terms** will only be about 10% of the practical. **Know these to earn an A.**
 
+### Skeletal Marking Terms and Definitions
+
+Names for bone markings are often descriptive of their shape or function. Here are some common terms:
+
+#### DEPRESSIONS OR OPENINGS
+- **fissure**: narrow, cleft-like opening
+- **foramen**: small hole
+- **fossa or sulcus**: shallow depression
+- **meatus or canal**: tube-shaped channel running through a bone
+- **notch**: indentation at the edge of a bone
+- **sinus**: cavity within a bone
+
+#### PROJECTIONS AT JOINTS
+
+- **condyle**: small, rounded projection
+- **facet**: smooth, flat surface
+- **head**: larger, rounded projection which extends beyond a narrow neck
+
+#### PROJECTIONS FOR ATTACHMENTS OF TENDONS AND LIGAMENTS
+
+- **crest**: slender ridge or border
+- **epicondyle**: projection adjacent to a condyle
+- **line**: less prominent ridge
+- **process**: any marked projection
+- **spine**: sharp, slender projection
+- **trochanter**: large, blunt projection
+- **tubercle**: small, rounded projection
+- **tuberosity**: large, rounded projection (usually rough)
+
+
 ### Bones of the Skull (Markings in italics)
 
 <div style="display: flex; gap: 2em; align-items: start;">
@@ -166,18 +196,162 @@ Each category is divided into 3 groups:
           <li><em>superior orbital fissure</em></li>
         </ul>
       </li>
-      <li>paranasal sinuses (4)
+      <li><b>Additional Features</b>
         <ul>
-          <li><em>Frontal, ethmoid, sphenoid, maxillary</em></li>
+          <li>paranasal sinuses (4)
+            <ul>
+              <li><em>frontal, ethmoid, sphenoid, maxillary</em></li>
+            </ul>
+          </li>
+          <li>orbit of eye (6 bones)
+            <ul>
+              <li><em>frontal, maxilla, sphenoid, ethmoid, zygomatic, lacrimal</em></li>
+            </ul>
+          </li>
+        </ul>
+    </ul>
+  </div>
+</div>
+
+### Vertebral Column
+
+<div style="display: flex; gap: 2rem; align-items: flex-start;">
+
+  <div style="flex: 1;">
+    <h3>Essential</h3>
+    <ul>
+      <li>cervical vertebrae (7)
+        <ul>
+          <li>atlas (C1)</li>
+          <li>axis (C2)</li>
         </ul>
       </li>
-      <li>orbit of eye (6 bones)
+      <li>thoracic vertebrae (12)</li>
+      <li>lumbar vertebrae</li>
+      <li>sacral vertebrae (sacrum)</li>
+      <li>coccygeal vertebrae (coccyx)</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1;">
+    <h3>Advanced</h3>
+    <ul>
+      <li>cervical vertebrae
         <ul>
-          <li><em>frontal, maxilla, sphenoid, ethmoid, zygomatic, lacrimal</em></li>
+          <li><em>transverse foramina</em></li>
+        </ul>
+      </li>
+      <li><b>Vertebral Markings</b>
+        <ul>
+          <li><em>body</em></li>
+          <li><em>spinous process</em></li>
+          <li><em>transverse process</em></li>
+          <li><em>vertebral arch</em></li>
+          <li><em>vertebral foramen</em></li>
         </ul>
       </li>
     </ul>
   </div>
+
+  <div style="flex: 1;">
+    <h3>Mastery</h3>
+    <ul>
+      <li>axis
+        <ul>
+          <li><em>dens</em></li>
+        </ul>
+      </li>
+      <li><b>Vertebral Markings</b>
+        <ul>
+          <li><em>superior articular process</em></li>
+          <li><em>inferior articular process</em></li>
+          <li><em>superior costal facet</em></li>
+          <li><em>inferior costal facet</em></li>
+          <li><em>vertebral canal</em></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+
+### Thoracic Cage
+
+<div style="display: flex; gap: 2rem; align-items: flex-start;">
+
+  <div style="flex: 1;">
+    <h3>Essential</h3>
+    <ul>
+      <li>true ribs (7 pairs)</li>
+      <li>false ribs (3 pairs)</li>
+      <li>floating ribs (2 pairs)</li>
+      <li>sternum
+        <ul>
+          <li><em>manubrium</em></li>
+          <li><em>body</em></li>
+          <li><em>xiphoid process</em></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+
+  <div style="flex: 1;">
+    <h3>Advanced</h3>
+    <ul>
+      <li>costal cartilages</li>
+      <li>rib markings
+        <ul>
+          <li><em>head</em></li>
+          <li><em>body/shaft</em></li>
+          <li><em>tubercle</em></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+
+  <div style="flex: 1;">
+    <h3>Mastery</h3>
+    <ul>
+      <li>rib markings
+        <ul>
+          <li><em>neck</em></li>
+          <li><em>tubercle</em></li>
+          <li><em>angle</em></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+
+### Axial Skeleton Joints
+
+<div style="display: flex; gap: 2rem; align-items: flex-start;">
+
+<div style="flex: 1;">
+    <h3>Essential</h3>
+    <ul>
+        <li>temporomandibular (TMJ)</li>
+        <li>atlanto-occipital</li>
+        <li>atlanto-axial</li>
+        <li>intervertebral</li>
+    </ul>
+</div>
+
+<div style="flex: 1;">
+    <h3>Advanced</h3>
+    <ul>
+    <!-- no items listed for advanced -->
+    </ul>
+</div>
+
+<div style="flex: 1;">
+    <h3>Mastery</h3>
+    <ul>
+        <li>acromioclavicular</li>
+        <li>sternoclavicular</li>
+        <li>sternocostal</li>
+        <li>vertebrocostal</li>
+    </ul>
+</div>
 </div>
 
 
