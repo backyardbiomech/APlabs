@@ -73,7 +73,6 @@ Names for bone markings are often descriptive of their shape or function. Here a
 ### Bones of the Skull (Markings in italics)
 
 <div style="display: flex; gap: 2em; align-items: start;">
-
   <!-- Essential Column -->
   <div style="flex: 1;">
     <h3>Essential</h3>
@@ -211,6 +210,7 @@ Names for bone markings are often descriptive of their shape or function. Here a
         </ul>
     </ul>
   </div>
+  
 </div>
 
 ### Vertebral Column
