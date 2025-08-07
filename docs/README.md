@@ -3,7 +3,7 @@
 ## 206
 
 + [BIOL 206 Manual Page for Students](206/206toc.md)
-+ [BIOL206 Manual Page for Faculty](206/206_toc_faculty.md)
++ [BIOL 206 Manual Page for Faculty](206/206_toc_faculty.md)
 
 ## 207
 
