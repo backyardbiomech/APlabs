@@ -5,17 +5,16 @@
 
 [BIOL 207 Manual](207/207toc.md)
 
- # Using in Canvas
+# Using in Canvas
 
- There are two ways to use the lab manuals in Canvas:
+There are two ways to use the lab manuals in Canvas:
 
 1. **Link to the manual**: You can link to the manual in Canvas by using the link above, or links to individual labs. When students click the link in Canvas (say, in a module), it should open in a new tab. The link above goes to a page with the full schedule and access to all labs, so it's a good option for students to bookmark. 
 2. **Embed the manual**: I (Brandon) prefer to make a Canvas page with reading assignments and other prep notes like links to youtube videos or to Mastering assignments, for each page, then embed the lab manual page in that canvas page. I also provide a direct link to go direclty to the main page, but most students seem to prefer to stay within canvas. You can embed the manual in Canvas by using the "Embed" option in the Rich Content Editor, or clicking the `</>` button to edit html direclty. Paste the following in, editing the link to go to the page you wish to embed (really just have to change the lab number).  This will display the manual directly within the Canvas page, allowing students to view it without leaving Canvas.
 
 ```html
 <div class="container"><iframe class="responsive-iframe" src="https://backyardbiomech.github.io/APlabs/206/lab_1.html" width="100%" height="600" loading="lazy"></iframe></div>
-```
-
+```cad ddsaaqaq`aw`qaa`q
 # Editing pages
 If you notice a small error in the lab manual, you can edit it directly in the GitHub repository. You must have a github account and have been granted access by Brandon or Bjoern for edit permissions. 
 
