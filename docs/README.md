@@ -27,4 +27,4 @@ If you notice a small error in the lab manual, you can edit it directly in the G
 3. Click the pencil icon in the top right corner of the page to edit the file. Most pages are formatted in markdown, so you can edit the text directly. If you are not familiar with markdown, you can use the [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/) to learn how to format text, links, and images. But some sections are formatted in html, so you can edit those directly as well. If you don't know either, feel free to make simple text changes (like typos) but let me (Brandon) know about formatting errors that need fixed. 
 4. After making your changes, click on the green `Commit changes` button at the top. 
 5. In the dialog that opens, leave the default message and settings, and just click `Commit changes`. 
-6. Your changes will be reflected in the live version of the manual after a few minutes and after you refresh the page.
+6. Your changes will be reflected in the live version of the manual after about one minute and after you refresh the page.
