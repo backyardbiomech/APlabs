@@ -28,7 +28,7 @@ Over the course of the next set of bone labs, you will be learning the bones of 
 
 You will have successfully completed the lab when you can identify every bone and marking that your lab partner quizzes you on. (you won’t get here today – practice in time for next lab!) 
 
-## Lab 2: Bones and Markings of the Upper Appendicular Skeleton
+## Lab 3: Bones and Markings of the Upper Appendicular Skeleton
 
 > **EVERYTHING on the list is fair game for the practical exam! 
 Consider the entire list your study guide.**
