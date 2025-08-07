@@ -1,11 +1,9 @@
-# A & P labs
 
++ [BIOL 206 Manual Page for Students](206/206toc.md)
 
-[BIOL 206 Manual](206/206toc.md)
+[BIOL 207 Manual Page for Students](207/207toc.md)
 
-[BIOL 207 Manual](207/207toc.md)
-
-# Using in Canvas
+## Using in Canvas
 
 There are two ways to use the lab manuals in Canvas:
 
@@ -14,8 +12,9 @@ There are two ways to use the lab manuals in Canvas:
 
 ```html
 <div class="container"><iframe class="responsive-iframe" src="https://backyardbiomech.github.io/APlabs/206/lab_1.html" width="100%" height="600" loading="lazy"></iframe></div>
-```cad ddsaaqaq`aw`qaa`q
-# Editing pages
+```
+
+## Editing pages
 If you notice a small error in the lab manual, you can edit it directly in the GitHub repository. You must have a github account and have been granted access by Brandon or Bjoern for edit permissions. 
 
 1. Go to [https://github.com/backyardbiomech/APlabs/](https://github.com/backyardbiomech/APlabs/) and log in with your GitHub account. 
