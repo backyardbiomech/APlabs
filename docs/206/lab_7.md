@@ -1,92 +1,78 @@
 <p style='text-align: center;'> <h1>BIOL 206 Human Anatomy & Physiology I </h1> </p>
-<p style='text-align: center;'> <h2> Muscles of the Pelvic Girdle</h2> </p>
+<p style='text-align: center;'> <h2> Muscles of the Pectoral Girdle</h2> </p>
 
 ## Student Learning Objectives:
-
 After completing this section, students should be able to:
 
 1. Describe the human body using directional and regional terms.
 2. Explain how the name of a muscle can help identify its action, appearance, or location.
 3. Define the terms prime mover (or agonist), antagonist, synergist, and fixator.
 4. For a given movement, differentiate specific muscles that function as prime mover, antagonist, synergist, or fixator.
-5. For select muscles of the pelvic girdle and lower limbs: locate them in the body, identify their origins, insertions, and actions, and demonstrate these actions.
+5. For select muscles of the pectoral girdle and upper limbs: locate them in the body, identify their origins, insertions, and actions, and demonstrate these actions.
 
 For each muscle listed below, you are responsible for identifying it on a model or drawing, knowing its origin, insertion, and action. You can find similar tables in your book. The tables below are somewhat (or significantly) simplified from the book. Still, you should find each term in your book, in Mastering A&P, or online.
 
-### Gluteal Group
+### Muscles that act on the scapula (to move the shoulder)
 
 |   | Action                             | Origin                                   | Insertion                             |
 |---|------------------------------------|------------------------------------------|---------------------------------------|
-| **_gluteus maximus_**              | Extends hip, rotates leg laterally       | Ilium, sacrum, coccyx                  | posterior proximal femur              |
-| **_gluteus medius_**               | Abduction and medial rotation at hip     | anterior iliac crest                    | greater trochanter of femur          |
-| **_gluteus minimus_**              | Abduction and medial rotation at hip     | lateral ilium                           | greater trochanter of femur          |
-| **_tensor fasciae latae_**         | Stabilizes hip and knee joints           | Iliac crest, lateral anterior superior iliac spine | lateral condyle of tibia             |
+| **_trapezius_**                    | Retracts scapula, elevates or depresses scapula depending on active region. | Occipital bone, spinous processes of cervical and thoracic vertebrae | clavicle, scapular spine and acromion |
+| **_levator scapulae_**             | Elevates scapula                         | C1 to C4                                | Medial border of scapula, superior to spine |
+| **_rhomboideus major_**            | Adducts scapula                         | Spinous processes of thoracic vertebrae | Medial border of scapula              |
+| **_serratus anterior_**            | Protracts scapula (which pushes the arm forward in front of the scapula, as in punching or hugging) | ribs                                    | Medial border of scapula              |
+| **_pectoralis minor_**             | Depresses and protracts shoulder, elevates ribs | superior ribs                          | Coracoid process of scapula           |
 
-### Iliopsoas group
-
-|   | Action                             | Origin                                   | Insertion                             |
-|---|------------------------------------|------------------------------------------|---------------------------------------|
-| **_psoas major_**                  | Flexes hip                              | vertebral bodies lumbar vertebrae      | lesser trochanter of femur           |
-| **_iliacus_**                      | Flexes hip                              | ilium                                   | femur just distal to lesser trochanter |
-
-### Muscles that flex the knee
+### Muscles that act on the shoulder (to move the arm)
 
 |   | Action                             | Origin                                   | Insertion                             |
 |---|------------------------------------|------------------------------------------|---------------------------------------|
-| **_sartorius_**                    | Flexes hip and flexes knee, laterally rotates thigh | anterior superior iliac spine          | medial aspect of tibial tuberosity    |
-| **_biceps femoris_**               | Extends hip, flexes knee, laterally rotates leg | Long head: ischial tuberosity, Short head: linea aspera of femur | head of fibula                        |
-| **_semimembranosus_**              | Extends hip, flexes knee                 | ischial tuberosity                     | posterior medial condyle of tibia     |
-| **_semitendinosus_**               | Extends hip, flexes knee                 | ischial tuberosity                     | medial surface of proximal tibia (slightly anterior to insertion of semimembranosus) |
-| **_popliteus_**                    | Medial rotation of tibia, flexion at knee | lateral condyle of femur               | posterior proximal tibial shaft       |
-
-### Muscles that laterally rotate the femur
-
-|   | Action                             | Origin                                   | Insertion                             |
-|---|------------------------------------|------------------------------------------|---------------------------------------|
-| **_obturators_**                   | Lateral rotation of hip                  | margins of obturator foramen           | greater trochanter of femur          |
-| **_piriformis_**                   | Lateral rotation and abduction at hip    | anterolateral sacrum                   | greater trochanter of femur          |
-| **_gemellus_**                     | Lateral rotation at hip                  | ischial tuberosity                     | greater trochanter of femur          |
-| **_quadratus femoris_**            | Lateral rotation at hip                  | ischial tuberosity                     | intertrochanteric crest of femur     |
+| **_deltoid_**                      | Abduction at shoulder, flexion/extension and medial/lateral rotation depending on active region | clavicle and scapular spine and acromion | deltoid tuberosity of humerus         |
+| **_pectoralis major_**             | Flexion, adduction, medial rotation of humerus at shoulder (as in bench press motion) | Sternum, costal cartilages, clavicle   | greater tubercle and intertubercular groove of humerus |
+| **_latissimus dorsi_**             | Extension, adduction, medial rotation humerus at shoulder (gym lat pull-downs) | spinous processes of thoracic and lumbar vertebrae, lower ribs | intertubercular groove of humerus     |
+| **_teres major_**                  | Extension, adduction, and medial rotation at shoulder | inferior angle of scapula               | intertubercular groove of humerus     |
+| **_coracobrachialis_**             | Adduction and flexion at shoulder       | coracoid process of scapula            | medial shaft of humerus               |
 
 
-### Muscles that adduct the femur
+### Rotator cuff muscles
 
 |   | Action                             | Origin                                   | Insertion                             |
 |---|------------------------------------|------------------------------------------|---------------------------------------|
-| **_adductor longus_**              | Flexes hip, adducts leg                 | pubis                                   | linea aspera of femur                |
-| **_adductor magnus_**              | Extends hip, adducts leg                | inferior pubis to ischial tuberosity   | linea aspera of femur                |
-| **_adductor brevis_**              | Adduction and flexion at hip            | pubis                                   | linea aspera of femur                |
-| **_pectineus_**                    | Flexes hip, adducts leg                 | pubis                                   | from lesser trochanter to superior part of linea aspera of femur |
-| **_gracilis_**                     | Adducts leg at hip, flexes knee         | pubis                                   | medial proximal tibia                 |
+| **_supraspinatus_**                | Abducts arm at shoulder                  | supraspinous fossa of scapula          | greater tubercle of humerus           |
+| **_infraspinatus_**                | Laterally rotates humerus at shoulder    | infraspinous fossa of scapula          | greater tubercle of humerus           |
+| **_teres minor_**                  | Laterally rotates humerus at shoulder     | lateral border of scapula               | greater tubercle of humerus           |
+| **_subscapularis_**                | Medially rotates humerus at shoulder      | subscapular fossa of scapula           | lesser tubercle of humerus            |
 
-
-
-### Quadricep muscles that extend the knee
+### Muscles that act at the elbow (to move the forearm)
 
 |   | Action                             | Origin                                   | Insertion                             |
 |---|------------------------------------|------------------------------------------|---------------------------------------|
-| **_vastus lateralis_**             | Extends knee                             | greater trochanter, linea aspera (wraps around to anterior surface) | tibial tuberosity via patellar ligament |
-| **_vastus medialis_**              | Extends knee                             | linea aspera (wraps around to anterior surface) | tibial tuberosity via patellar ligament |
-| **_vastus intermedius_**           | Extends knee                             | anterior shaft of femur                 | tibial tuberosity via patellar ligament |
-| **_rectus femoris_**               | Extends knee, flexes hip                 | anterior inferior iliac spine of coxal bone | tibial tuberosity via patellar ligament |
+| **_biceps brachii_**               | Flexes elbow and shoulder, supinates forearm | Long head: superior margin of glenoid of scapula, Short head: coracoid process of scapula | radial tuberosity                     |
+| **_brachialis_**                   | Flexes elbow                             | anterior distal shaft of humerus       | coronoid process of ulna             |
+| **_brachioradialis_**              | Flexion at elbow                        | distal lateral humerus                 | styloid process of radius            |
+| **_triceps brachii_**              | Extends forearm at elbow, extension and adduction at shoulder | Long head: inferior margin of glenoid of scapula; Lateral head: lateral proximal shaft of humerus; Medial head: posterior distal shaft of humerus | olecranon of ulna                    |
+| **_anconeus_**                     | Extension of elbow                      | lateral epicondyle of humerus         | olecranon of ulna                    |
+| **_supinator_**                    | Supination                              | lateral epicondyle of humerus, margin of radial notch of ulna | anterolateral radius, just distal to radial tuberosity |
+| **_pronator teres_**               | Pronates forearm at elbow              | Medial epicondyle of humerus, coronoid process of ulna | lateral midshaft of radius           |
 
-### Muscles that mostly act at the ankle
-
-|   | Action                             | Origin                                   | Insertion                             |
-|---|------------------------------------|------------------------------------------|---------------------------------------|
-| **_soleus_**                       | Plantar flexion at ankle                | proximal third of tibia and fibula     | calcaneus by calcaneal tendon (shared with gastrocnemius) |
-| **_gastrocnemius_**                | Plantar flexion at ankle, flexes knee   | medial and lateral epicondyles of femur | calcaneus by calcaneal tendon (shared with soleus) |
-| **_tibialis anterior_**            | Dorsiflexion and inversion at ankle     | lateral condyle of tibia and proximal shaft of tibia | medial cuneiform, metatarsal 1      |
-| **_fibularis longus_**             | Eversion of foot and plantar flexion     | lateral condyle of tibia, proximal fibula | medial cuneiform, metatarsal 1      |
-| **_fibularis brevis_**             | Eversion of foot and plantar flexion     | middle fibula                           | base of metatarsal 5                 |
-| **_plantaris_**                    | Plantar flexion, flexion at knee        | lateral distal femur                    | calcaneus                             |
-| **_tibialis posterior_**           | Adduction and inversion of foot, plantar flexion | shafts of tibia and fibula              | mostly medial-inferior surface of navicular (arch of the foot) |
-
-### Muscles that mostly act at the toes
+### Muscles that act on the fingers
 
 |   | Action                             | Origin                                   | Insertion                             |
 |---|------------------------------------|------------------------------------------|---------------------------------------|
-| **_extensor hallucis longus_**     | Extension of large toe (1)              | anterior surface of fibula              | superior distal phalanx of large toe (1) |
-| **_extensor digitorum longus_**    | Extension of joints in toes 2-5         | lateral condyle of tibia                | superior surfaces of phalanges of toes 2-5 |
-| **_flexor hallucis longus_**       | Flexion of joints of great toe           | posterior fibula                        | inferior distal phalanx 1            |
-| **_flexor digitorum longus_**      | Flexion of joints of toes 2-5            | posteromedial tibia                    | inferior surfaces of distal phalanges, toes 2-5 |
+| **_flexor digitorum superficialis_** | Flexion of proximal joints of fingers 2-5 | medial epicondyle of humerus           | middle phalanges of fingers 2-5      |
+| **_flexor pollicis longus_**       | Flexion of thumb                        | shaft of radius                        | base of distal phalanx of thumb      |
+| **_flexor digitorum profundus_**   | Flexion of distal joints of fingers 2-5 | proximal ulna                          | bases of distal phalanges of fingers 2-5 |
+| **_extensor digitorum_**           | Extension of fingers 2-5               | lateral epicondyle of humerus         | posterior phalanges of fingers 2-5   |
+| **_extensor pollicis brevis_**     | Extension of base of thumb              | shaft of radius                        | base of proximal phalanx of thumb     |
+| **_extensor indicis_**             | Extension and adduction of index finger | posterior ulna                         | posterior of phalanges of index finger (2) |
+| **_abductor pollicis longus_**     | Abduction of thumb                      | posterior ulna and radius              | lateral edge of metacarpal 1         |
+| **_extensor pollicis longus_**     | Extension of proximal thumb             | posterior and lateral ulna             | base of distal phalanx of thumb      |
+
+### Muscles that act on the wrist
+
+|   | Action                             | Origin                                   | Insertion                             |
+|---|------------------------------------|------------------------------------------|---------------------------------------|
+| **_extensor carpi radialis brevis_** | Extends and abducts wrist                | lateral epicondyle of humerus          | metacarpal III (base)                |
+| **_extensor carpi radialis longus_** | Extends and abducts wrist                | lateral epicondyle of humerus          | metacarpal II (base)                 |
+| **_flexor carpi radialis_**         | Flexes and abducts at the wrist          | medial epicondyle of humerus           | metacarpals II and III (base)        |
+| **_extensor carpi ulnaris_**        | Extends and adducts at wrist             | lateral epicondyle of humerus, ulna    | metacarpal V (base)                  |
+| **_flexor carpi ulnaris_**          | Flexes and adducts wrist                 | medial epicondyle of humerus, ulna     | pisiform and hamate bones             |

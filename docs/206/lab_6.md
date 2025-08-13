@@ -1,78 +1,117 @@
 <p style='text-align: center;'> <h1>BIOL 206 Human Anatomy & Physiology I </h1> </p>
-<p style='text-align: center;'> <h2> Muscles of the Pectoral Girdle</h2> </p>
+<p style='text-align: center;'> <h2> Axial Muscles</h2> </p>
 
 ## Student Learning Objectives:
-After completing this section, students should be able to:
 
+After completing this section, students should be able to:
 1. Describe the human body using directional and regional terms.
 2. Explain how the name of a muscle can help identify its action, appearance, or location.
 3. Define the terms prime mover (or agonist), antagonist, synergist, and fixator.
 4. For a given movement, differentiate specific muscles that function as prime mover, antagonist, synergist, or fixator.
-5. For select muscles of the pectoral girdle and upper limbs: locate them in the body, identify their origins, insertions, and actions, and demonstrate these actions.
+5. For select muscles of the head, neck, and back: locate them in the body, identify their origins, insertions, and actions, and demonstrate these actions.
+6. For select muscles of the abdominal wall and thorax: locate them in the body, identify their origins, insertions, and actions, and demonstrate these actions.
 
 For each muscle listed below, you are responsible for identifying it on a model or drawing, knowing its origin, insertion, and action. You can find similar tables in your book. The tables below are somewhat (or significantly) simplified from the book. Still, you should find each term in your book, in Mastering A&P, or online.
 
-### Muscles that act on the scapula (to move the shoulder)
+### Muscles of facial expression (do not cross a joint)
+
+| | Action                             | Origin                                   | Insertion                             |
+|------------------------------------|------------------------------------------|---------------------------------------|---------------------------------------|
+| ***orbicularis oculi***                 | Closes eye (squint)                     | medial orbit: frontal and maxilla bones | skin of eyelids                      |
+| ***orbicularis oris***                  | Closes lips (purses, protrudes)         | maxilla and mandible                  | lips                                 |
+| ***zygomaticus major and minor***       | Raises corners of mouth (smile)         | zygomatic bone                        | skin and muscle at corner of mouth   |
+| ***buccinator***                        | Compress cheeks (whistling, sucking)    | alveolar processes of mandible and maxilla | angle of the mouth                   |
+| ***frontalis***                        | Raises eyebrows                          | epicranial aponeurosis               | skin of eyebrows                     |
+| ***risorius***                           | Draws corner of mouth to side           | fascia near TMJ                       | skin at angle of mouth               |
+| ***depressor labii inferioris***         | Depresses lower lip                      | medial mandible                       | skin of lower lip                    |
+| ***corrugator supercilii***             | Pulls eyebrows down and medially         | frontal bone near nasal bone          | skin of eyebrow                      |
+| ***levator labii superioris***           | Elevates upper lip                       | inferior margin of orbit              | superior orbicularis oris           |
+| ***depressor anguli oris***              | Depresses corner of mouth (frown)       | lateral surface of mandible body      | skin at angle of mouth               |
+| ***mentalis***                           | Elevates and protrudes lower lip        | medial anterior mandible (just inferior to incisors) | skin of chin                         |
+
+### Muscles of the jaw (for mastication and facial expression)
+
+| | Action                             | Origin                                   | Insertion                             |
+|------------------------------------|------------------------------------------|---------------------------------------|---------------------------------------|
+| ***masseter***                       | Elevates mandible (as in closing mouth while chewing) | zygomatic arch                      | lateral mandible ramus              |
+| ***temporalis***                     | Elevates mandible                                    | Temporal, frontal, parietal bones  | Coronoid process of mandible        |
+| ***platysma***                       | Pulls lower lip down (as in frowning) <br> Depresses mandible (opening mouth as when chewing or surprised) | wide - sternum to acromion of scapula | mandible and skin of cheek          |
+| ***medial and lateral pterygoid***   | Both: slides jaw side to side; medial elevates jaw; lateral opens jaw | lateral pterygoid plate of sphenoid | medial mandible ramus               |
+
+### Muscles that act on the neck (to move the head)
+
+| | Action                             | Origin                                   | Insertion                             |
+|------------------------------------|------------------------------------------|---------------------------------------|---------------------------------------|
+| ***sternocleidomastoid***            | Both sides: flexes neck (as in looking down) <br> One side: bends head sideways and rotates neck | sternal end of clavicle, manubrium of sternum | mastoid region of skull (mostly temporal bone) |
+| ***splenius***                       | Both sides: extends neck (as in looking up) <br> One side: rotate and laterally flex neck | spinous processes of cervical vertebrae   | occipital bone and mastoid process of temporal bone |
+
+### Tongue Muscles
+
+Here’s the fourth table you provided converted to Markdown format:
+
+
+| | Action                             | Origin                                   | Insertion                             |
+|------------------------------------|------------------------------------------|---------------------------------------|---------------------------------------|
+| ***genioglossus***    | Protracts tongue (sticks it out)           | medial posterior surface of mandible | body of tongue   |
+| ***hyoglossus***      | Retracts tongue                            | hyoid bone       | side of tongue   |
+| ***styloglossus***    | Retracts tongue                            | styloid process of temporal bone | side of tongue   |
+
+### Infra-hyoid muscles
+
+| | Action                             | Origin                                   | Insertion                             |
+|------------------------------------|------------------------------------------|---------------------------------------|---------------------------------------|
+| ***sternothyroid***  | Depresses hyoid bone and larynx            | manubrium        | larynx           |
+| ***thyrohyoid***     | Depresses hyoid, elevates larynx           | larynx           | hyoid            |
+| ***sternohyoid***    | Depresses hyoid and larynx                  | clavicle and manubrium | hyoid        |
+| ***omohyoid***       | Depresses hyoid and larynx                  | superior border of scapula | hyoid       |
+
+### Supra-hyoid muscles
+
+| | Action                             | Origin                                   | Insertion                             |
+|------------------------------------|------------------------------------------|---------------------------------------|---------------------------------------|
+| ***digastric***     | Elevates hyoid, depresses mandible         | inferior mandible, chin and angle                 | hyoid bone                                       |
+| ***mylohyoid***     | Elevates hyoid, depresses mandible         | inferior mandible, between chin and angle         | median raphe running from mandibular symphysis to hyoid |
+| ***geniohyoid***    | Elevates hyoid, depresses mandible         | medial mandible near chin                          | hyoid                                            |
+| ***stylohyoid***    | Elevates hyoid                             | styloid process of temporal bone                   | hyoid                                            |
+
+### Muscles that move the eye
+
+| | Action                             | Origin                                   | Insertion                             |
+|------------------------------------|------------------------------------------|---------------------------------------|---------------------------------------|
+| ***superior rectus***     | Elevation and adduction of eye  | common tendinous ring                | superior surface of eyeball          |
+| ***inferior rectus***     | Depression and adduction of eye  | common tendinous ring                | inferior surface of eyeball          |
+| ***medial rectus***       | Adduction of eye                | common tendinous ring                | medial surface of eyeball            |
+| ***lateral rectus***      | Abduction of eye                | common tendinous ring                | lateral surface of eyeball           |
+| ***superior oblique***     | Look down and lateral           | sphenoid                             | superiolateral surface of eye        |
+| ***inferior oblique***     | Elevation and abduction of eye  | maxilla (floor of orbit)            | inferolateral surface of eyeball     |
+
+### Abdominal muscles (bacon)
+
+| | Action                             | Origin                                   | Insertion                             |
+|------------------------------------|------------------------------------------|---------------------------------------|---------------------------------------|
+| ***rectus abdominis***            | Compresses abdomen, flexes vertebral column      | Pubis crest and symphysis                  | Xiphoid process, costal cartilage 5 to 7  |
+| ***external oblique***            | Depresses ribs, anteriorly or laterally flexes spine | external inferior borders of lower ribs    | iliac crest and linea alba                  |
+| ***internal oblique***            | Depresses ribs, anteriorly or laterally flexes spine | iliac crest                                | inferior ribs, xiphoid process, linea alba  |
+| ***transversus abdominis***       | Compresses abdomen                               | iliac rest, inferior costal cartilages     | linea alba and pubis                        |
+
+
+### Muscles that act on the ribs and vertebral columns
+
+| | Action                             | Origin                                   | Insertion                             |
+|------------------------------------|------------------------------------------|---------------------------------------|---------------------------------------|
+| ***internal intercostals***   | Depress ribs                                           | superior border of each rib                 | inferior border of more superior rib       |
+| ***external intercostals***   | Elevates ribs                                         | inferior border of each rib                 | superior border of more inferior rib       |
+| ***diaphragm***               | Expands thoracic cavity for inspiration                | Xiphoid process, lower ribs and cartilages, anterior surfaces of upper lumbar vertebrae | central tendinous sheet                    |
+| ***scalenes***                | Elevates ribs, flexes neck                            | transverse processes of cervical vertebrae   | superior surfaces of first two ribs        |
+
+### Muscles that act on the vertebral column
 
 |   | Action                             | Origin                                   | Insertion                             |
 |---|------------------------------------|------------------------------------------|---------------------------------------|
-| **_trapezius_**                    | Retracts scapula, elevates or depresses scapula depending on active region. | Occipital bone, spinous processes of cervical and thoracic vertebrae | clavicle, scapular spine and acromion |
-| **_levator scapulae_**             | Elevates scapula                         | C1 to C4                                | Medial border of scapula, superior to spine |
-| **_rhomboideus major_**            | Adducts scapula                         | Spinous processes of thoracic vertebrae | Medial border of scapula              |
-| **_serratus anterior_**            | Protracts scapula (which pushes the arm forward in front of the scapula, as in punching or hugging) | ribs                                    | Medial border of scapula              |
-| **_pectoralis minor_**             | Depresses and protracts shoulder, elevates ribs | superior ribs                          | Coracoid process of scapula           |
-
-### Muscles that act on the shoulder (to move the arm)
-
-|   | Action                             | Origin                                   | Insertion                             |
-|---|------------------------------------|------------------------------------------|---------------------------------------|
-| **_deltoid_**                      | Abduction at shoulder, flexion/extension and medial/lateral rotation depending on active region | clavicle and scapular spine and acromion | deltoid tuberosity of humerus         |
-| **_pectoralis major_**             | Flexion, adduction, medial rotation of humerus at shoulder (as in bench press motion) | Sternum, costal cartilages, clavicle   | greater tubercle and intertubercular groove of humerus |
-| **_latissimus dorsi_**             | Extension, adduction, medial rotation humerus at shoulder (gym lat pull-downs) | spinous processes of thoracic and lumbar vertebrae, lower ribs | intertubercular groove of humerus     |
-| **_teres major_**                  | Extension, adduction, and medial rotation at shoulder | inferior angle of scapula               | intertubercular groove of humerus     |
-| **_coracobrachialis_**             | Adduction and flexion at shoulder       | coracoid process of scapula            | medial shaft of humerus               |
-
-
-### Rotator cuff muscles
-
-|   | Action                             | Origin                                   | Insertion                             |
-|---|------------------------------------|------------------------------------------|---------------------------------------|
-| **_supraspinatus_**                | Abducts arm at shoulder                  | supraspinous fossa of scapula          | greater tubercle of humerus           |
-| **_infraspinatus_**                | Laterally rotates humerus at shoulder    | infraspinous fossa of scapula          | greater tubercle of humerus           |
-| **_teres minor_**                  | Laterally rotates humerus at shoulder     | lateral border of scapula               | greater tubercle of humerus           |
-| **_subscapularis_**                | Medially rotates humerus at shoulder      | subscapular fossa of scapula           | lesser tubercle of humerus            |
-
-### Muscles that act at the elbow (to move the forearm)
-
-|   | Action                             | Origin                                   | Insertion                             |
-|---|------------------------------------|------------------------------------------|---------------------------------------|
-| **_biceps brachii_**               | Flexes elbow and shoulder, supinates forearm | Long head: superior margin of glenoid of scapula, Short head: coracoid process of scapula | radial tuberosity                     |
-| **_brachialis_**                   | Flexes elbow                             | anterior distal shaft of humerus       | coronoid process of ulna             |
-| **_brachioradialis_**              | Flexion at elbow                        | distal lateral humerus                 | styloid process of radius            |
-| **_triceps brachii_**              | Extends forearm at elbow, extension and adduction at shoulder | Long head: inferior margin of glenoid of scapula; Lateral head: lateral proximal shaft of humerus; Medial head: posterior distal shaft of humerus | olecranon of ulna                    |
-| **_anconeus_**                     | Extension of elbow                      | lateral epicondyle of humerus         | olecranon of ulna                    |
-| **_supinator_**                    | Supination                              | lateral epicondyle of humerus, margin of radial notch of ulna | anterolateral radius, just distal to radial tuberosity |
-| **_pronator teres_**               | Pronates forearm at elbow              | Medial epicondyle of humerus, coronoid process of ulna | lateral midshaft of radius           |
-
-### Muscles that act on the fingers
-
-|   | Action                             | Origin                                   | Insertion                             |
-|---|------------------------------------|------------------------------------------|---------------------------------------|
-| **_flexor digitorum superficialis_** | Flexion of proximal joints of fingers 2-5 | medial epicondyle of humerus           | middle phalanges of fingers 2-5      |
-| **_flexor pollicis longus_**       | Flexion of thumb                        | shaft of radius                        | base of distal phalanx of thumb      |
-| **_flexor digitorum profundus_**   | Flexion of distal joints of fingers 2-5 | proximal ulna                          | bases of distal phalanges of fingers 2-5 |
-| **_extensor digitorum_**           | Extension of fingers 2-5               | lateral epicondyle of humerus         | posterior phalanges of fingers 2-5   |
-| **_extensor pollicis brevis_**     | Extension of base of thumb              | shaft of radius                        | base of proximal phalanx of thumb     |
-| **_extensor indicis_**             | Extension and adduction of index finger | posterior ulna                         | posterior of phalanges of index finger (2) |
-| **_abductor pollicis longus_**     | Abduction of thumb                      | posterior ulna and radius              | lateral edge of metacarpal 1         |
-| **_extensor pollicis longus_**     | Extension of proximal thumb             | posterior and lateral ulna             | base of distal phalanx of thumb      |
-
-### Muscles that act on the wrist
-
-|   | Action                             | Origin                                   | Insertion                             |
-|---|------------------------------------|------------------------------------------|---------------------------------------|
-| **_extensor carpi radialis brevis_** | Extends and abducts wrist                | lateral epicondyle of humerus          | metacarpal III (base)                |
-| **_extensor carpi radialis longus_** | Extends and abducts wrist                | lateral epicondyle of humerus          | metacarpal II (base)                 |
-| **_flexor carpi radialis_**         | Flexes and abducts at the wrist          | medial epicondyle of humerus           | metacarpals II and III (base)        |
-| **_extensor carpi ulnaris_**        | Extends and adducts at wrist             | lateral epicondyle of humerus, ulna    | metacarpal V (base)                  |
-| **_flexor carpi ulnaris_**          | Flexes and adducts wrist                 | medial epicondyle of humerus, ulna     | pisiform and hamate bones             |
+| **_erector spinae_** includes the following:              |                                          |                                       |                                       |
+| **_iliocostalis group_**           | Extends vertebrae, elevates or depresses ribs | ilium or inferior ribs                 | superior ribs or transverse processes of cervical vertebrae |
+| **_longissimus group_**            | Both sides: extends vertebral column; one side: lateral flexes vertebral column | transverse processes of inferior vertebrae | mastoid process of temporal bone or transverse processes of superior vertebrae |
+| **_spinalis group_**               | Extends neck and vertebral column       | spinous processes of inferior vertebrae | spinous processes of superior vertebrae |
+| **_Deeper spinal muscles_** includes the following:        |                                          |                                       |                                       |
+| **_semispinalis group_**           | Extends vertebral column, rotates towards opposite side | sacrum and transverse processes of inferior vertebrae | occipital bone or spinous processes of superior vertebrae |
+| **_quadratus lumborum_**           | Both sides: depress ribs; one side: laterally flexes vertebral column | iliac crest                            | inferior rib and transverse processes of lumbar vertebrae |
