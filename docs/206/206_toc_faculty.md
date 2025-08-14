@@ -13,7 +13,7 @@ This page should not be distributed to students because it has links to the hand
 | 9 | Oct. 20-24 | [Lab 8 - Muscles of the Pelvic Girdle](./lab_8.md) and [EMG Demonstration Lab](./EMG.md) |   
 | 10 | Oct. 27-31 | **LAB PRACTICAL 2: Muscles. Covers labs 6-8** | |
 | 11 | Nov. 3-7 | [Lab 10 - Neuroanatomy: Brain, Cranial Nerves, and Spinal Cord](./lab_10.md) | [student lab report 10](./lab_reports/Lab_10_report.pdf) |
-| 12 | Nov. 10-14 | [Lab 11 - Special Senses](./lab_11.md) | [student lab report 11](./lab_reports/Lab_11_report.pdf) |
+| 12 | Nov. 10-14 | [Lab 11 - Special Senses](./lab_11.md) and [Reflexes lab](./reflexes.md)| [student lab report 11](./lab_reports/Lab_11_report.pdf) and [reflexes report](./lab_reports/Reflexes_report.docx)|
 | 13 | Nov. 17-21 | [Lab 12 - Endocrine System](./lab_12.md) | [student lab report 12](./lab_reports/Lab_12_report.pdf) **Needs to be made**|
 | 14 | Nov. 24-28 | **NO LABS, Thanksgiving Break** | |
 | 15 | Dec. 1-5 | **LAB PRACTICAL 3: Neuroanatomy and Endocrine System. Covers labs 10-12** | |
