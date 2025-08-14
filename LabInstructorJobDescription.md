@@ -5,7 +5,7 @@ Occasionally in BIOL 206 or 207, the instructor for a lab section is different t
 ### Lecture Instructor Duties
 
 1. Syllabus creation
-2. Semester lab schedule (in consultation with the other A&P instructors)
+2. Semester lab schedule (in consultation with the other A&P instructors and Lab Instructor)
 3. Course policies (including grading weights, but not the actual grading of lab materials)
 4. Canvas shell construction
 5. Mid-term and final grade submissions in Banner
@@ -27,3 +27,11 @@ The lab instructor is responsible for:
 9. Entering grades in Canvas in the appropriate assignments as soon as possible.
 10. Taking attendance (this may be in Canvas, by lab quiz or lab notebook submission, etc., in consultation with the lecture instructor)
 11. Communicating concerns about students to the lecture instructor, and if necessary for Care Team level concerns, the department chair. 
+
+### General Lab Expectations
+
+These suggestions are general, and should be modified in disucssion between the lecture and lab instructors.
+
+1. There may or may not be a lab quiz each week, depending on the schedule and the syllabus. This is a good way to get students to arrive on time, and to ensure they are prepared for the lab. If there is a quiz, it should be given at the beginning of the lab period, and should be graded and returned before the end of the lab period.
+2. The lab instructor should introduce the lab material with a brief lecture presentation. This should not be longer than 15-20 minutes to allow students to have time to complete the lab activities. The lecture should include a brief overview of the lab material, the objectives of the lab, and any safety concerns.
+3. Students should have as much freedom as possible to explore the lab material, but the lab instructor should be available to answer questions and guide students as needed.
