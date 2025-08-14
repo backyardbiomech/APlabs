@@ -2,7 +2,7 @@
 
 # Quicklinks
 
-You can view and download the [lab notebook here](./Reflexes_notebook.md). 
+You can view and download the [lab notebook here](./lab_reports/Reflexes_report.docx). 
 
 - [Background](#background)
 - [Required Equipment](#required-equipment)
