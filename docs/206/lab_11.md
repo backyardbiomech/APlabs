@@ -85,4 +85,4 @@ These are parts of the central nervous system, structures associated with it tha
 |  - suspensory ligaments (or zonule fibers) |  |
 |  - choroid |  |
 
-**Also be sure you know the 6 extrinisic eye muscles and their actions (described in [Lab 5](lab_5.md#muscles-that-move-the-eye)]). You will be asked to identify them on a model or drawing.**
+**Also be sure you know the 6 extrinisic eye muscles and their actions (described in [Lab 6](lab_6.md#muscles-that-move-the-eye)]). You will be asked to identify them on a model or drawing.**
