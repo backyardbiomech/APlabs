@@ -1,4 +1,3 @@
-<p style='text-align: center;'> <h1>BIOL 206 Human Anatomy & Physiology I </h1> </p>
 <p style='text-align: center;'> <h2>Bones and Markings of the Axial Skeleton</h2> </p>
 
 ## PURPOSE
